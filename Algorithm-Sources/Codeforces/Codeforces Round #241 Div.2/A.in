@@ -1,0 +1,13 @@
+4
+>= 1 Y
+< 3 N
+<= -3 N
+> 55 N
+output
+17
+input
+2
+> 100 Y
+< -100 Y
+output
+Impossible

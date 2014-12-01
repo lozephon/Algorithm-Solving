@@ -1,0 +1,94 @@
+20
+2
+cheetos 6 diget 3
+waterlilyseed 8 diget 2
+1
+aloeveraseed 1 zec 7
+2
+orangetreeseed 6 buttering 7
+orangetreeseed 8 gum 7
+2
+frailejonseed 1 pokerchip 6
+frailejonseed 7 crownsando 3
+2
+cheetos 2 buttering 4
+knapweedseed 5 buttering 2
+1
+tomatoplantseed 8 butterwaffle 1
+1
+speedrockseed 1 ohpotato 4
+3
+burfordhollyseed 2 bonsaiseed 1
+bonsaiseed 5 bigpie 4
+cornchip 7 bigpie 1
+4
+homerunball 8 caramel 1
+ponytailpalmseed 4 homerunball 4
+baldcypressseed 4 caramel 1
+homerunball 8 chocochip 1
+3
+bambooseed 7 homerunball 8
+bambooseed 2 pokerchip 8
+bambooseed 4 crownsando 6
+7
+teapotseed 5 sawkkang 3
+sawkkang 4 kimchi 7
+burnttreeseed 7 pokerchip 4
+japanesemapleseed 2 sawkkang 7
+burnttreeseed 6 chocopie 1
+sawkkang 4 ogokcookie 3
+burnttreeseed 5 ogokcookie 6
+4
+huangshanpineseed 2 chocolate 7
+homerunball 1 chocolate 8
+ace 4 chocolate 7
+homerunball 7 yaegam 2
+3
+sugarmapleseed 4 jeffreypineseed 5
+sugarmapleseed 1 bbadacoconut 8
+jeffreypineseed 7 candy 2
+5
+roughgrassseed 2 caramel 5
+caramel 3 sawkkang 5
+zec 8 motherhandpie 4
+zec 5 sawkkang 8
+roughgrassseed 2 buttering 8
+6
+soomichip 6 bbadacoconut 2
+europeanaspenseed 6 soomichip 4
+ogokcookie 2 candy 7
+grapevineseed 2 candy 5
+europeanaspenseed 1 butterwaffle 7
+ogokcookie 2 soomichip 8
+6
+commonmushroomseed 6 butterwaffle 8
+butterwaffle 1 whiteheim 7
+butterwaffle 7 bigpie 7
+dragontreeseed 7 butterwaffle 6
+whiteheim 3 chocochip 6
+koreanstewartiaseed 8 commonmushroomseed 3
+4
+kimchi 1 buttering 1
+cattailseed 2 motherhandpie 7
+cattailseed 6 buttering 3
+shaleseed 6 kimchi 4
+4
+soomichip 6 crownsando 8
+gum 3 crownsando 4
+pampasgrassseed 6 crownsando 3
+tomatoplantseed 6 soomichip 5
+6
+rainbowgumseed 3 tobaccoseed 3
+rainbowgumseed 4 bigpie 8
+azaleaseed 4 cheetos 1
+cheetos 8 ace 6
+yaegam 8 ace 2
+rainbowgumseed 5 azaleaseed 3
+7
+ogokcookie 4 soomichip 1
+chocopie 1 bigpie 1
+ocotilloseed 8 bigpie 7
+soomichip 7 chocopie 8
+ocotilloseed 7 kokalcone 6
+kokalcone 2 jagalchi 6
+kokalcone 2 gum 7

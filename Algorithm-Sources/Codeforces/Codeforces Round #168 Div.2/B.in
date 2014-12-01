@@ -1,0 +1,21 @@
+2 1
+W
+B
+4 4
+WBBW
+WBBW
+BBBB
+WBWW
+3 1
+B
+B
+W
+output
+YES
+
+3 4
+WWBW
+BWWW
+WWWB
+output
+NO
