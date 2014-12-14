@@ -20,263 +20,263 @@
 
 /* Begin PBXFileReference section */
 		0025F9101A3DBAAE00112BA0 /* Algorithm-Solving */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Algorithm-Solving"; sourceTree = BUILT_PRODUCTS_DIR; };
-		0025F9231A3DBC7A00112BA0 /* D. Mines.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "D. Mines.cpp"; sourceTree = "<group>"; };
-		0025F9261A3DBC7A00112BA0 /* A. Final Exam.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Final Exam.cpp"; sourceTree = "<group>"; };
-		0025F9271A3DBC7A00112BA0 /* B. Pattern Lock.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Pattern Lock.cpp"; sourceTree = "<group>"; };
-		0025F9281A3DBC7A00112BA0 /* C. poPOWERwer.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C. poPOWERwer.cpp"; sourceTree = "<group>"; };
-		0025F9291A3DBC7A00112BA0 /* E. Prof. Chwa and his magicCircle class.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "E. Prof. Chwa and his magicCircle class.cpp"; sourceTree = "<group>"; };
-		0025F92A1A3DBC7A00112BA0 /* F. Unordered Subsequence 2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "F. Unordered Subsequence 2.cpp"; sourceTree = "<group>"; };
-		0025F92B1A3DBC7A00112BA0 /* G. Cubes Incognitanus, the liar.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "G. Cubes Incognitanus, the liar.cpp"; sourceTree = "<group>"; };
-		0025F92C1A3DBC7A00112BA0 /* H. Strobogrammatic Numbers.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "H. Strobogrammatic Numbers.cpp"; sourceTree = "<group>"; };
-		0025F92D1A3DBC7A00112BA0 /* J. Lecture Note.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "J. Lecture Note.cpp"; sourceTree = "<group>"; };
-		0025F92F1A3DBC7A00112BA0 /* Festival.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Festival.cpp; sourceTree = "<group>"; };
-		0025F9321A3DBC7A00112BA0 /* boardcover.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boardcover.cpp; sourceTree = "<group>"; };
-		0025F9331A3DBC7A00112BA0 /* boggle.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = boggle.in; sourceTree = "<group>"; };
-		0025F9341A3DBC7A00112BA0 /* boggle.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = boggle.py; sourceTree = "<group>"; };
-		0025F9351A3DBC7A00112BA0 /* clocksync.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = clocksync.cpp; sourceTree = "<group>"; };
-		0025F9361A3DBC7A00112BA0 /* picnic.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = picnic.cpp; sourceTree = "<group>"; };
-		0025F9371A3DBC7A00112BA0 /* picnic.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = picnic.in; sourceTree = "<group>"; };
-		0025F9381A3DBC7A00112BA0 /* picnic.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = picnic.py; sourceTree = "<group>"; };
-		0025F93A1A3DBC7A00112BA0 /* fanmeeting.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = fanmeeting.cpp; sourceTree = "<group>"; };
-		0025F93B1A3DBC7A00112BA0 /* fanmeeting.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = fanmeeting.in; sourceTree = "<group>"; };
-		0025F93C1A3DBC7A00112BA0 /* fanmeeting.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = fanmeeting.py; sourceTree = "<group>"; };
-		0025F93D1A3DBC7A00112BA0 /* fence.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = fence.cpp; sourceTree = "<group>"; };
-		0025F93E1A3DBC7A00112BA0 /* quadtree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = quadtree.cpp; sourceTree = "<group>"; };
-		0025F9401A3DBC7A00112BA0 /* asymtiling.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = asymtiling.in; sourceTree = "<group>"; };
-		0025F9411A3DBC7A00112BA0 /* asymtiling.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = asymtiling.py; sourceTree = "<group>"; };
-		0025F9421A3DBC7A00112BA0 /* blockgame.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = blockgame.cpp; sourceTree = "<group>"; };
-		0025F9431A3DBC7A00112BA0 /* blockgame.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = blockgame.in; sourceTree = "<group>"; };
-		0025F9441A3DBC7A00112BA0 /* blockgame.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = blockgame.py; sourceTree = "<group>"; };
-		0025F9451A3DBC7A00112BA0 /* dragon.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = dragon.in; sourceTree = "<group>"; };
-		0025F9461A3DBC7A00112BA0 /* dragon.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = dragon.py; sourceTree = "<group>"; };
-		0025F9471A3DBC7A00112BA0 /* jlis.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = jlis.cpp; sourceTree = "<group>"; };
-		0025F9481A3DBC7A00112BA0 /* klis.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = klis.in; sourceTree = "<group>"; };
-		0025F9491A3DBC7A00112BA0 /* klis.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = klis.py; sourceTree = "<group>"; };
-		0025F94A1A3DBC7A00112BA0 /* numb3rs.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = numb3rs.cpp; sourceTree = "<group>"; };
-		0025F94B1A3DBC7A00112BA0 /* numbergame.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = numbergame.cpp; sourceTree = "<group>"; };
-		0025F94C1A3DBC7A00112BA0 /* ocr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ocr.cpp; sourceTree = "<group>"; };
-		0025F94D1A3DBC7A00112BA0 /* packing.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = packing.cpp; sourceTree = "<group>"; };
-		0025F94E1A3DBC7A00112BA0 /* packing.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = packing.in; sourceTree = "<group>"; };
-		0025F94F1A3DBC7A00112BA0 /* packing.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = packing.py; sourceTree = "<group>"; };
-		0025F9501A3DBC7A00112BA0 /* pi.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = pi.cpp; sourceTree = "<group>"; };
-		0025F9511A3DBC7A00112BA0 /* pi.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = pi.in; sourceTree = "<group>"; };
-		0025F9521A3DBC7A00112BA0 /* pi.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = pi.py; sourceTree = "<group>"; };
-		0025F9531A3DBC7A00112BA0 /* poly.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = poly.in; sourceTree = "<group>"; };
-		0025F9541A3DBC7A00112BA0 /* poly.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = poly.py; sourceTree = "<group>"; };
-		0025F9551A3DBC7A00112BA0 /* quantization.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = quantization.cpp; sourceTree = "<group>"; };
-		0025F9561A3DBC7A00112BA0 /* restore.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = restore.cpp; sourceTree = "<group>"; };
-		0025F9571A3DBC7A00112BA0 /* sushi.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = sushi.cpp; sourceTree = "<group>"; };
-		0025F9581A3DBC7A00112BA0 /* wildcard.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = wildcard.cpp; sourceTree = "<group>"; };
-		0025F9591A3DBC7A00112BA0 /* wildcard.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = wildcard.in; sourceTree = "<group>"; };
-		0025F95A1A3DBC7A00112BA0 /* wildcard.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = wildcard.py; sourceTree = "<group>"; };
-		0025F95B1A3DBC7A00112BA0 /* zimbabwe.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = zimbabwe.cpp; sourceTree = "<group>"; };
-		0025F95E1A3DBC7A00112BA0 /* A. The Triangle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. The Triangle.cpp"; sourceTree = "<group>"; };
-		0025F95F1A3DBC7A00112BA0 /* B. FenceRepairing.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. FenceRepairing.cpp"; sourceTree = "<group>"; };
-		0025F9601A3DBC7A00112BA0 /* F. Bribe the Prisoners.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "F. Bribe the Prisoners.cpp"; sourceTree = "<group>"; };
-		0025F9621A3DBC7A00112BA0 /* D. 숫자 구슬.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "D. 숫자 구슬.cpp"; sourceTree = "<group>"; };
-		0025F9641A3DBC7A00112BA0 /* A. Palindromist.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Palindromist.cpp"; sourceTree = "<group>"; };
-		0025F9661A3DBC7A00112BA0 /* A. 낚시터의 즐거움.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. 낚시터의 즐거움.cpp"; sourceTree = "<group>"; };
-		0025F9671A3DBC7A00112BA0 /* B. 별 모양 검사.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. 별 모양 검사.cpp"; sourceTree = "<group>"; };
-		0025F9681A3DBC7A00112BA0 /* C. Too Many Ways to Go.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C. Too Many Ways to Go.cpp"; sourceTree = "<group>"; };
-		0025F9691A3DBC7A00112BA0 /* D. 격자 채우기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "D. 격자 채우기.cpp"; sourceTree = "<group>"; };
-		0025F96A1A3DBC7A00112BA0 /* E. 경찰서 건설.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "E. 경찰서 건설.cpp"; sourceTree = "<group>"; };
-		0025F96B1A3DBC7A00112BA0 /* F. 삼각 관계.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "F. 삼각 관계.cpp"; sourceTree = "<group>"; };
-		0025F96C1A3DBC7A00112BA0 /* G. 더블 미역.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "G. 더블 미역.cpp"; sourceTree = "<group>"; };
-		0025F96D1A3DBC7A00112BA0 /* H. 금단의 사랑.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "H. 금단의 사랑.cpp"; sourceTree = "<group>"; };
-		0025F96E1A3DBC7A00112BA0 /* I. 한붓그리기 가능하게 고치기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "I. 한붓그리기 가능하게 고치기.cpp"; sourceTree = "<group>"; };
-		0025F96F1A3DBC7A00112BA0 /* J. 그래프의 지름.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "J. 그래프의 지름.cpp"; sourceTree = "<group>"; };
-		0025F9701A3DBC7A00112BA0 /* K. Pascal's Travels.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "K. Pascal's Travels.cpp"; sourceTree = "<group>"; };
-		0025F9711A3DBC7A00112BA0 /* L. 브릿지 세기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "L. 브릿지 세기.cpp"; sourceTree = "<group>"; };
-		0025F9721A3DBC7A00112BA0 /* M. JongMan's Honeymoon.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "M. JongMan's Honeymoon.cpp"; sourceTree = "<group>"; };
-		0025F9731A3DBC7A00112BA0 /* N. 동전.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "N. 동전.cpp"; sourceTree = "<group>"; };
-		0025F9741A3DBC7A00112BA0 /* O. 키위 주스.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "O. 키위 주스.cpp"; sourceTree = "<group>"; };
-		0025F9751A3DBC7A00112BA0 /* P. 누르기 쉬운 전화번호.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "P. 누르기 쉬운 전화번호.cpp"; sourceTree = "<group>"; };
-		0025F9761A3DBC7A00112BA0 /* Q. 증감 수열.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Q. 증감 수열.cpp"; sourceTree = "<group>"; };
-		0025F9771A3DBC7A00112BA0 /* R. 잔치국수가락.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "R. 잔치국수가락.cpp"; sourceTree = "<group>"; };
-		0025F9791A3DBC7A00112BA0 /* A. 정리 못하는 정리베.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "A. 정리 못하는 정리베.py"; sourceTree = "<group>"; };
-		0025F97A1A3DBC7A00112BA0 /* A0.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = A0.txt; sourceTree = "<group>"; };
-		0025F97B1A3DBC7A00112BA0 /* A1.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = A1.out; sourceTree = "<group>"; };
-		0025F97C1A3DBC7A00112BA0 /* A1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = A1.txt; sourceTree = "<group>"; };
-		0025F97D1A3DBC7A00112BA0 /* A2.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = A2.out; sourceTree = "<group>"; };
-		0025F97E1A3DBC7A00112BA0 /* A2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = A2.txt; sourceTree = "<group>"; };
-		0025F97F1A3DBC7A00112BA0 /* bootstrapping.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = bootstrapping.txt; sourceTree = "<group>"; };
-		0025F9801A3DBC7A00112BA0 /* C. 재하와 버찌씨 여덟개.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C. 재하와 버찌씨 여덟개.cpp"; sourceTree = "<group>"; };
-		0025F9811A3DBC7A00112BA0 /* C. 재하와 버찌씨 여덟개.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "C. 재하와 버찌씨 여덟개.py"; sourceTree = "<group>"; };
-		0025F9821A3DBC7A00112BA0 /* C0.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = C0.txt; sourceTree = "<group>"; };
-		0025F9831A3DBC7A00112BA0 /* C1.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = C1.out; sourceTree = "<group>"; };
-		0025F9841A3DBC7A00112BA0 /* C1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = C1.txt; sourceTree = "<group>"; };
-		0025F9851A3DBC7A00112BA0 /* C2.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = C2.out; sourceTree = "<group>"; };
-		0025F9861A3DBC7A00112BA0 /* C2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = C2.txt; sourceTree = "<group>"; };
-		0025F9881A3DBC7A00112BA0 /* A1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = A1.txt; sourceTree = "<group>"; };
-		0025F9891A3DBC7A00112BA0 /* A2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = A2.txt; sourceTree = "<group>"; };
-		0025F98A1A3DBC7A00112BA0 /* B1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = B1.txt; sourceTree = "<group>"; };
-		0025F98B1A3DBC7A00112BA0 /* B2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = B2.txt; sourceTree = "<group>"; };
-		0025F98C1A3DBC7A00112BA0 /* C1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = C1.txt; sourceTree = "<group>"; };
-		0025F98D1A3DBC7A00112BA0 /* C2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = C2.txt; sourceTree = "<group>"; };
-		0025F98E1A3DBC7A00112BA0 /* D1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = D1.txt; sourceTree = "<group>"; };
-		0025F98F1A3DBC7A00112BA0 /* D2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = D2.txt; sourceTree = "<group>"; };
-		0025F9901A3DBC7A00112BA0 /* E1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = E1.txt; sourceTree = "<group>"; };
-		0025F9911A3DBC7A00112BA0 /* E2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = E2.txt; sourceTree = "<group>"; };
-		0025F9921A3DBC7A00112BA0 /* F1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = F1.txt; sourceTree = "<group>"; };
-		0025F9931A3DBC7A00112BA0 /* F2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = F2.txt; sourceTree = "<group>"; };
-		0025F9941A3DBC7A00112BA0 /* G1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = G1.txt; sourceTree = "<group>"; };
-		0025F9951A3DBC7A00112BA0 /* G2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = G2.txt; sourceTree = "<group>"; };
-		0025F9961A3DBC7A00112BA0 /* H1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = H1.txt; sourceTree = "<group>"; };
-		0025F9971A3DBC7A00112BA0 /* H2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = H2.txt; sourceTree = "<group>"; };
-		0025F9981A3DBC7A00112BA0 /* I1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = I1.txt; sourceTree = "<group>"; };
-		0025F9991A3DBC7A00112BA0 /* I2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = I2.txt; sourceTree = "<group>"; };
-		0025F99A1A3DBC7A00112BA0 /* J1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = J1.txt; sourceTree = "<group>"; };
-		0025F99B1A3DBC7A00112BA0 /* J2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = J2.txt; sourceTree = "<group>"; };
-		0025F99C1A3DBC7A00112BA0 /* D. 퀴즈 퀴즈!.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "D. 퀴즈 퀴즈!.py"; sourceTree = "<group>"; };
-		0025F99D1A3DBC7A00112BA0 /* D1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = D1.txt; sourceTree = "<group>"; };
-		0025F99E1A3DBC7A00112BA0 /* I. 2N-Queen-Rook.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "I. 2N-Queen-Rook.py"; sourceTree = "<group>"; };
-		0025F99F1A3DBC7A00112BA0 /* I1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = I1.txt; sourceTree = "<group>"; };
-		0025F9A01A3DBC7A00112BA0 /* I2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = I2.txt; sourceTree = "<group>"; };
-		0025F9A21A3DBC7A00112BA0 /* 9763. 마을의 친밀도.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "9763. 마을의 친밀도.cpp"; sourceTree = "<group>"; };
-		0025F9A51A3DBC7A00112BA0 /* A. Wasted Time.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Wasted Time.cpp"; sourceTree = "<group>"; };
-		0025F9A61A3DBC7A00112BA0 /* B. Canvan Frames.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Canvan Frames.cpp"; sourceTree = "<group>"; };
-		0025F9A71A3DBC7A00112BA0 /* C. Hot Bath.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C. Hot Bath.cpp"; sourceTree = "<group>"; };
-		0025F9A81A3DBC7A00112BA0 /* D. Password.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "D. Password.cpp"; sourceTree = "<group>"; };
-		0025F9A91A3DBC7A00112BA0 /* E. E-reader Display.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "E. E-reader Display.cpp"; sourceTree = "<group>"; };
-		0025F9AB1A3DBC7A00112BA0 /* A. Cookies.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Cookies.cpp"; sourceTree = "<group>"; };
-		0025F9AC1A3DBC7A00112BA0 /* B. Students and Shoelaces.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Students and Shoelaces.cpp"; sourceTree = "<group>"; };
-		0025F9AD1A3DBC7A00112BA0 /* C. Statues.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C. Statues.cpp"; sourceTree = "<group>"; };
-		0025F9AE1A3DBC7A00112BA0 /* D. String.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "D. String.cpp"; sourceTree = "<group>"; };
-		0025F9AF1A3DBC7A00112BA0 /* E. Games with Rectangle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "E. Games with Rectangle.cpp"; sourceTree = "<group>"; };
-		0025F9B11A3DBC7A00112BA0 /* A. cAPS lOCK.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. cAPS lOCK.cpp"; sourceTree = "<group>"; };
-		0025F9B21A3DBC7A00112BA0 /* B. Opposites Attract.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Opposites Attract.cpp"; sourceTree = "<group>"; };
-		0025F9B31A3DBC7A00112BA0 /* C. The World is a Theatre.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C. The World is a Theatre.cpp"; sourceTree = "<group>"; };
-		0025F9B41A3DBC7A00112BA0 /* D. Subway.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "D. Subway.cpp"; sourceTree = "<group>"; };
-		0025F9B51A3DBC7A00112BA0 /* E. Yet Another Task with Queens.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "E. Yet Another Task with Queens.cpp"; sourceTree = "<group>"; };
-		0025F9B61A3DBC7A00112BA0 /* F. Present to Mom.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "F. Present to Mom.cpp"; sourceTree = "<group>"; };
-		0025F9B81A3DBC7A00112BA0 /* A. Tiling with Hexagons.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Tiling with Hexagons.cpp"; sourceTree = "<group>"; };
-		0025F9B91A3DBC7A00112BA0 /* B. Forming Teams.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Forming Teams.cpp"; sourceTree = "<group>"; };
-		0025F9BA1A3DBC7A00112BA0 /* C.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = C.cpp; sourceTree = "<group>"; };
-		0025F9BB1A3DBC7A00112BA0 /* D. Spider's Web.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "D. Spider's Web.cpp"; sourceTree = "<group>"; };
-		0025F9BC1A3DBC7A00112BA0 /* E.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = E.cpp; sourceTree = "<group>"; };
-		0025F9BE1A3DBC7A00112BA0 /* A. k-String.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. k-String.cpp"; sourceTree = "<group>"; };
-		0025F9BF1A3DBC7A00112BA0 /* B. Special Offer! Super Price 999 Bourles!.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Special Offer! Super Price 999 Bourles!.cpp"; sourceTree = "<group>"; };
-		0025F9C01A3DBC7A00112BA0 /* C. Color Stripe.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C. Color Stripe.cpp"; sourceTree = "<group>"; };
-		0025F9C11A3DBC7A00112BA0 /* D.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = D.cpp; sourceTree = "<group>"; };
-		0025F9C21A3DBC7A00112BA0 /* E.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = E.cpp; sourceTree = "<group>"; };
-		0025F9C41A3DBC7A00112BA0 /* A. Adding Digits.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Adding Digits.cpp"; sourceTree = "<group>"; };
-		0025F9C51A3DBC7A00112BA0 /* B. Ancient Prophesy.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Ancient Prophesy.cpp"; sourceTree = "<group>"; };
-		0025F9C71A3DBC7A00112BA0 /* A. Sockets.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Sockets.cpp"; sourceTree = "<group>"; };
-		0025F9C81A3DBC7A00112BA0 /* B. Playing Cubes.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Playing Cubes.cpp"; sourceTree = "<group>"; };
-		0025F9C91A3DBC7A00112BA0 /* C. View Angle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C. View Angle.cpp"; sourceTree = "<group>"; };
-		0025F9CB1A3DBC7A00112BA0 /* A. Lights Out.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Lights Out.cpp"; sourceTree = "<group>"; };
-		0025F9CC1A3DBC7A00112BA0 /* B. Convex Shape.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "B. Convex Shape.py"; sourceTree = "<group>"; };
-		0025F9CD1A3DBC7A00112BA0 /* B.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = B.in; sourceTree = "<group>"; };
-		0025F9CE1A3DBC7A00112BA0 /* C. k-Multiple Free Set.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "C. k-Multiple Free Set.py"; sourceTree = "<group>"; };
-		0025F9CF1A3DBC7A00112BA0 /* C.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = C.in; sourceTree = "<group>"; };
-		0025F9D01A3DBC7A00112BA0 /* D. Zero Tree.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "D. Zero Tree.py"; sourceTree = "<group>"; };
-		0025F9D11A3DBC7A00112BA0 /* D.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = D.in; sourceTree = "<group>"; };
-		0025F9D31A3DBC7A00112BA0 /* A. Circle Line.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "A. Circle Line.py"; sourceTree = "<group>"; };
-		0025F9D41A3DBC7A00112BA0 /* A.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = A.in; sourceTree = "<group>"; };
-		0025F9D51A3DBC7A00112BA0 /* B. New Problem.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "B. New Problem.py"; sourceTree = "<group>"; };
-		0025F9D61A3DBC7A00112BA0 /* B.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = B.in; sourceTree = "<group>"; };
-		0025F9D71A3DBC7A00112BA0 /* C. Learning Languages.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "C. Learning Languages.py"; sourceTree = "<group>"; };
-		0025F9D81A3DBC7A00112BA0 /* C.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = C.in; sourceTree = "<group>"; };
-		0025F9D91A3DBC7A00112BA0 /* D. Set of Points.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "D. Set of Points.py"; sourceTree = "<group>"; };
-		0025F9DA1A3DBC7A00112BA0 /* D.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = D.in; sourceTree = "<group>"; };
-		0025F9DC1A3DBC7A00112BA0 /* A. Bit++.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "A. Bit++.py"; sourceTree = "<group>"; };
-		0025F9DD1A3DBC7A00112BA0 /* B. Painting Eggs.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "B. Painting Eggs.py"; sourceTree = "<group>"; };
-		0025F9DE1A3DBC7A00112BA0 /* B.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = B.in; sourceTree = "<group>"; };
-		0025F9DF1A3DBC7A00112BA0 /* C. XOR and OR.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "C. XOR and OR.py"; sourceTree = "<group>"; };
-		0025F9E01A3DBC7A00112BA0 /* C.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = C.in; sourceTree = "<group>"; };
-		0025F9E11A3DBC7A00112BA0 /* E. Sausage Maximization.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "E. Sausage Maximization.py"; sourceTree = "<group>"; };
-		0025F9E21A3DBC7A00112BA0 /* E.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = E.in; sourceTree = "<group>"; };
-		0025F9E41A3DBC7A00112BA0 /* A. Shaass and Oskols.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "A. Shaass and Oskols.py"; sourceTree = "<group>"; };
-		0025F9E51A3DBC7A00112BA0 /* A.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = A.in; sourceTree = "<group>"; };
-		0025F9E61A3DBC7A00112BA0 /* B. Shaass and Bookshelf.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "B. Shaass and Bookshelf.py"; sourceTree = "<group>"; };
-		0025F9E71A3DBC7A00112BA0 /* B.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = B.in; sourceTree = "<group>"; };
-		0025F9E91A3DBC7A00112BA0 /* A. TL.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "A. TL.py"; sourceTree = "<group>"; };
-		0025F9EA1A3DBC7A00112BA0 /* A.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = A.in; sourceTree = "<group>"; };
-		0025F9EB1A3DBC7A00112BA0 /* B. Resort.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "B. Resort.py"; sourceTree = "<group>"; };
-		0025F9EC1A3DBC7A00112BA0 /* B.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = B.in; sourceTree = "<group>"; };
-		0025F9ED1A3DBC7A00112BA0 /* C. Bombs.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C. Bombs.cpp"; sourceTree = "<group>"; };
-		0025F9EE1A3DBC7A00112BA0 /* C. Bombs.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "C. Bombs.py"; sourceTree = "<group>"; };
-		0025F9EF1A3DBC7A00112BA0 /* C.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = C.in; sourceTree = "<group>"; };
-		0025F9F01A3DBC7A00112BA0 /* D. Looking for Owls.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "D. Looking for Owls.cpp"; sourceTree = "<group>"; };
-		0025F9F11A3DBC7A00112BA0 /* E. Wrong Floyd.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "E. Wrong Floyd.py"; sourceTree = "<group>"; };
-		0025F9F21A3DBC7A00112BA0 /* E.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = E.in; sourceTree = "<group>"; };
-		0025F9F41A3DBC7A00112BA0 /* A. Jeff and Digits.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "A. Jeff and Digits.py"; sourceTree = "<group>"; };
-		0025F9F51A3DBC7A00112BA0 /* A.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = A.in; sourceTree = "<group>"; };
-		0025F9F61A3DBC7A00112BA0 /* B. Jeff and Periods.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "B. Jeff and Periods.py"; sourceTree = "<group>"; };
-		0025F9F71A3DBC7A00112BA0 /* B.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = B.in; sourceTree = "<group>"; };
-		0025F9F91A3DBC7A00112BA0 /* A. Coder.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "A. Coder.py"; sourceTree = "<group>"; };
-		0025F9FA1A3DBC7A00112BA0 /* A.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = A.in; sourceTree = "<group>"; };
-		0025F9FB1A3DBC7A00112BA0 /* B. Multitasking.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Multitasking.cpp"; sourceTree = "<group>"; };
-		0025F9FC1A3DBC7A00112BA0 /* B. Multitasking.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "B. Multitasking.py"; sourceTree = "<group>"; };
-		0025F9FD1A3DBC7A00112BA0 /* B.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = B.in; sourceTree = "<group>"; };
-		0025F9FE1A3DBC7A00112BA0 /* C. Milking cows.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C. Milking cows.cpp"; sourceTree = "<group>"; };
-		0025FA001A3DBC7A00112BA0 /* A. Guess a number!.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "A. Guess a number!.py"; sourceTree = "<group>"; };
-		0025FA011A3DBC7A00112BA0 /* A.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = A.in; sourceTree = "<group>"; };
-		0025FA021A3DBC7A00112BA0 /* B. Art Union.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "B. Art Union.py"; sourceTree = "<group>"; };
-		0025FA031A3DBC7A00112BA0 /* B.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = B.in; sourceTree = "<group>"; };
-		0025FA041A3DBC7A00112BA0 /* C. Booking System.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "C. Booking System.py"; sourceTree = "<group>"; };
-		0025FA051A3DBC7A00112BA0 /* C.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = C.in; sourceTree = "<group>"; };
-		0025FA071A3DBC7A00112BA0 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		0025FA081A3DBC7A00112BA0 /* main2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main2.cpp; sourceTree = "<group>"; };
-		0025FA091A3DBC7A00112BA0 /* main3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main3.cpp; sourceTree = "<group>"; };
-		0025FA0B1A3DBC7A00112BA0 /* Geometry Lib.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Geometry Lib.cpp"; sourceTree = "<group>"; };
-		0025FA0E1A3DBC7A00112BA0 /* 250. RainyRoad.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "250. RainyRoad.cpp"; sourceTree = "<group>"; };
-		0025FA0F1A3DBC7A00112BA0 /* 600. DropCoins.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "600. DropCoins.cpp"; sourceTree = "<group>"; };
-		0025FA111A3DBC7A00112BA0 /* 1000. CentaurCompanyDiv2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1000. CentaurCompanyDiv2.cpp"; sourceTree = "<group>"; };
-		0025FA121A3DBC7A00112BA0 /* 250. Chopsticks.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "250. Chopsticks.cpp"; sourceTree = "<group>"; };
-		0025FA131A3DBC7A00112BA0 /* 500. RobotHerbDiv2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "500. RobotHerbDiv2.cpp"; sourceTree = "<group>"; };
-		0025FA151A3DBC7A00112BA0 /* 250. EasyHomework.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "250. EasyHomework.cpp"; sourceTree = "<group>"; };
-		0025FA161A3DBC7A00112BA0 /* 500. NextOrPrev.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "500. NextOrPrev.cpp"; sourceTree = "<group>"; };
-		0025FA191A3DBC7A00112BA0 /* UVA 104 - Arbitrage.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 104 - Arbitrage.cpp"; sourceTree = "<group>"; };
-		0025FA1A1A3DBC7A00112BA0 /* UVA 117 - The Postal Worker Rings Once.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 117 - The Postal Worker Rings Once.cpp"; sourceTree = "<group>"; };
-		0025FA1B1A3DBC7A00112BA0 /* UVA 124 - Following Orders.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 124 - Following Orders.cpp"; sourceTree = "<group>"; };
-		0025FA1D1A3DBC7A00112BA0 /* UVA 10004 - Bicoloring.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 10004 - Bicoloring.cpp"; sourceTree = "<group>"; };
-		0025FA1E1A3DBC7A00112BA0 /* UVA 10048 - Audiophobia.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 10048 - Audiophobia.cpp"; sourceTree = "<group>"; };
-		0025FA201A3DBC7A00112BA0 /* UVA 10171 - Meeting Prof. Miguel....cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 10171 - Meeting Prof. Miguel....cpp"; sourceTree = "<group>"; };
-		0025FA211A3DBC7A00112BA0 /* UVA 10199 - Tourist Guide.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 10199 - Tourist Guide.cpp"; sourceTree = "<group>"; };
-		0025FA231A3DBC7A00112BA0 /* UVA 10305 - Ordering Tasks.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 10305 - Ordering Tasks.cpp"; sourceTree = "<group>"; };
-		0025FA241A3DBC7A00112BA0 /* UVA 10369 - Arctic Network.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 10369 - Arctic Network.cpp"; sourceTree = "<group>"; };
-		0025FA251A3DBC7A00112BA0 /* UVA 10397 - Connect the Campus.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 10397 - Connect the Campus.cpp"; sourceTree = "<group>"; };
-		0025FA271A3DBC7A00112BA0 /* UVA 10496 - Collecting Beepers.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 10496 - Collecting Beepers.cpp"; sourceTree = "<group>"; };
-		0025FA291A3DBC7A00112BA0 /* UVA 10557 - XYZZY.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 10557 - XYZZY.cpp"; sourceTree = "<group>"; };
-		0025FA2B1A3DBC7A00112BA0 /* UVA 10600 - ACM Contest and Blackout.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 10600 - ACM Contest and Blackout.cpp"; sourceTree = "<group>"; };
-		0025FA2C1A3DBC7A00112BA0 /* UVA 10653 - Bombs! NO they are Mines!!.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 10653 - Bombs! NO they are Mines!!.cpp"; sourceTree = "<group>"; };
-		0025FA2E1A3DBC7A00112BA0 /* UVA 10731 - Test.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 10731 - Test.cpp"; sourceTree = "<group>"; };
-		0025FA301A3DBC7A00112BA0 /* UVA 10801 - Lift Hopping.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 10801 - Lift Hopping.cpp"; sourceTree = "<group>"; };
-		0025FA321A3DBC7A00112BA0 /* UVA 11101 - Mall Mania.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 11101 - Mall Mania.cpp"; sourceTree = "<group>"; };
-		0025FA331A3DBC7A00112BA0 /* UVA 11110 - Equidivisions.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 11110 - Equidivisions.cpp"; sourceTree = "<group>"; };
-		0025FA351A3DBC7A00112BA0 /* UVA 11280 - Flying to Fredericton.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 11280 - Flying to Fredericton.cpp"; sourceTree = "<group>"; };
-		0025FA371A3DBC7A00112BA0 /* UVA 11463 - Commandos.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 11463 - Commandos.cpp"; sourceTree = "<group>"; };
-		0025FA381A3DBC7A00112BA0 /* UVA 11492 - Babel.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 11492 - Babel.cpp"; sourceTree = "<group>"; };
-		0025FA3A1A3DBC7A00112BA0 /* UVA 11504 - Dominos.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 11504 - Dominos.cpp"; sourceTree = "<group>"; };
-		0025FA3C1A3DBC7A00112BA0 /* UVA 11624 - Fire!.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 11624 - Fire!.cpp"; sourceTree = "<group>"; };
-		0025FA3D1A3DBC7A00112BA0 /* UVA 11631 - Dark roads.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 11631 - Dark roads.cpp"; sourceTree = "<group>"; };
-		0025FA3F1A3DBC7A00112BA0 /* UVA 11709 - Trust groups.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 11709 - Trust groups.cpp"; sourceTree = "<group>"; };
-		0025FA401A3DBC7A00112BA0 /* UVA 11747 - Heavy Cycle Edges.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 11747 - Heavy Cycle Edges.cpp"; sourceTree = "<group>"; };
-		0025FA421A3DBC7A00112BA0 /* UVA 216 - Getting in Line.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 216 - Getting in Line.cpp"; sourceTree = "<group>"; };
-		0025FA431A3DBC7A00112BA0 /* UVA 274 - Cat and Mouse.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 274 - Cat and Mouse.cpp"; sourceTree = "<group>"; };
-		0025FA441A3DBC7A00112BA0 /* UVA 291 - The House Of Santa Claus.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 291 - The House Of Santa Claus.cpp"; sourceTree = "<group>"; };
-		0025FA461A3DBC7A00112BA0 /* UVA 301 - Transportation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 301 - Transportation.cpp"; sourceTree = "<group>"; };
-		0025FA471A3DBC7A00112BA0 /* UVA 302 - John's Trip.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 302 - John's Trip.cpp"; sourceTree = "<group>"; };
-		0025FA481A3DBC7A00112BA0 /* UVA 314 - Robot.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 314 - Robot.cpp"; sourceTree = "<group>"; };
-		0025FA491A3DBC7A00112BA0 /* UVA 315 - Network.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 315 - Network.cpp"; sourceTree = "<group>"; };
-		0025FA4A1A3DBC7A00112BA0 /* UVA 334 - Identifying Concurrent Events.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 334 - Identifying Concurrent Events.cpp"; sourceTree = "<group>"; };
-		0025FA4B1A3DBC7A00112BA0 /* UVA 336 - A Node Too Far.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 336 - A Node Too Far.cpp"; sourceTree = "<group>"; };
-		0025FA4C1A3DBC7A00112BA0 /* UVA 341 - Non-Stop Travel.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 341 - Non-Stop Travel.cpp"; sourceTree = "<group>"; };
-		0025FA4E1A3DBC7A00112BA0 /* UVA 469 - Wetlands of Florida.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 469 - Wetlands of Florida.cpp"; sourceTree = "<group>"; };
-		0025FA501A3DBC7A00112BA0 /* UVA 524 - Prime Ring Problem.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 524 - Prime Ring Problem.cpp"; sourceTree = "<group>"; };
-		0025FA511A3DBC7A00112BA0 /* UVA 526 - String Distance and Transform Process.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 526 - String Distance and Transform Process.cpp"; sourceTree = "<group>"; };
-		0025FA521A3DBC7A00112BA0 /* UVA 532 - Dungeon Master.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 532 - Dungeon Master.cpp"; sourceTree = "<group>"; };
-		0025FA531A3DBC7A00112BA0 /* UVA 534 - Frogger.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 534 - Frogger.cpp"; sourceTree = "<group>"; };
-		0025FA541A3DBC7A00112BA0 /* UVA 544 - Heavy Cargo.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 544 - Heavy Cargo.cpp"; sourceTree = "<group>"; };
-		0025FA551A3DBC7A00112BA0 /* UVA 558 - Wormholes.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 558 - Wormholes.cpp"; sourceTree = "<group>"; };
-		0025FA571A3DBC7A00112BA0 /* UVA 657 - The die is cast.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 657 - The die is cast.cpp"; sourceTree = "<group>"; };
-		0025FA591A3DBC7A00112BA0 /* UVA 762 - We Ship Cheap.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 762 - We Ship Cheap.cpp"; sourceTree = "<group>"; };
-		0025FA5A1A3DBC7A00112BA0 /* UVA 796 - Critical Links.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 796 - Critical Links.cpp"; sourceTree = "<group>"; };
-		0025FA5C1A3DBC7A00112BA0 /* UVA 821 - Page Hopping.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 821 - Page Hopping.cpp"; sourceTree = "<group>"; };
-		0025FA5D1A3DBC7A00112BA0 /* UVA 869 - Airline Comparison.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 869 - Airline Comparison.cpp"; sourceTree = "<group>"; };
-		0025FA5E1A3DBC7A00112BA0 /* UVA 872 - Ordering.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 872 - Ordering.cpp"; sourceTree = "<group>"; };
-		0025FA601A3DBC7A00112BA0 /* UVA 908 - Re-connecting Computer Sites.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 908 - Re-connecting Computer Sites.cpp"; sourceTree = "<group>"; };
+		006A8B151A3DBF36006E2BE8 /* D. Mines.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "D. Mines.cpp"; sourceTree = "<group>"; };
+		006A8B181A3DBF36006E2BE8 /* A. Final Exam.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Final Exam.cpp"; sourceTree = "<group>"; };
+		006A8B191A3DBF36006E2BE8 /* B. Pattern Lock.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Pattern Lock.cpp"; sourceTree = "<group>"; };
+		006A8B1A1A3DBF36006E2BE8 /* C. poPOWERwer.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C. poPOWERwer.cpp"; sourceTree = "<group>"; };
+		006A8B1B1A3DBF36006E2BE8 /* E. Prof. Chwa and his magicCircle class.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "E. Prof. Chwa and his magicCircle class.cpp"; sourceTree = "<group>"; };
+		006A8B1C1A3DBF36006E2BE8 /* F. Unordered Subsequence 2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "F. Unordered Subsequence 2.cpp"; sourceTree = "<group>"; };
+		006A8B1D1A3DBF36006E2BE8 /* G. Cubes Incognitanus, the liar.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "G. Cubes Incognitanus, the liar.cpp"; sourceTree = "<group>"; };
+		006A8B1E1A3DBF36006E2BE8 /* H. Strobogrammatic Numbers.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "H. Strobogrammatic Numbers.cpp"; sourceTree = "<group>"; };
+		006A8B1F1A3DBF36006E2BE8 /* J. Lecture Note.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "J. Lecture Note.cpp"; sourceTree = "<group>"; };
+		006A8B211A3DBF36006E2BE8 /* Festival.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Festival.cpp; sourceTree = "<group>"; };
+		006A8B241A3DBF36006E2BE8 /* boardcover.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boardcover.cpp; sourceTree = "<group>"; };
+		006A8B251A3DBF36006E2BE8 /* boggle.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = boggle.in; sourceTree = "<group>"; };
+		006A8B261A3DBF36006E2BE8 /* boggle.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = boggle.py; sourceTree = "<group>"; };
+		006A8B271A3DBF36006E2BE8 /* clocksync.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = clocksync.cpp; sourceTree = "<group>"; };
+		006A8B281A3DBF36006E2BE8 /* picnic.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = picnic.cpp; sourceTree = "<group>"; };
+		006A8B291A3DBF36006E2BE8 /* picnic.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = picnic.in; sourceTree = "<group>"; };
+		006A8B2A1A3DBF36006E2BE8 /* picnic.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = picnic.py; sourceTree = "<group>"; };
+		006A8B2C1A3DBF36006E2BE8 /* fanmeeting.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = fanmeeting.cpp; sourceTree = "<group>"; };
+		006A8B2D1A3DBF36006E2BE8 /* fanmeeting.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = fanmeeting.in; sourceTree = "<group>"; };
+		006A8B2E1A3DBF36006E2BE8 /* fanmeeting.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = fanmeeting.py; sourceTree = "<group>"; };
+		006A8B2F1A3DBF36006E2BE8 /* fence.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = fence.cpp; sourceTree = "<group>"; };
+		006A8B301A3DBF36006E2BE8 /* quadtree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = quadtree.cpp; sourceTree = "<group>"; };
+		006A8B321A3DBF36006E2BE8 /* asymtiling.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = asymtiling.in; sourceTree = "<group>"; };
+		006A8B331A3DBF36006E2BE8 /* asymtiling.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = asymtiling.py; sourceTree = "<group>"; };
+		006A8B341A3DBF36006E2BE8 /* blockgame.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = blockgame.cpp; sourceTree = "<group>"; };
+		006A8B351A3DBF36006E2BE8 /* blockgame.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = blockgame.in; sourceTree = "<group>"; };
+		006A8B361A3DBF36006E2BE8 /* blockgame.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = blockgame.py; sourceTree = "<group>"; };
+		006A8B371A3DBF36006E2BE8 /* dragon.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = dragon.in; sourceTree = "<group>"; };
+		006A8B381A3DBF36006E2BE8 /* dragon.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = dragon.py; sourceTree = "<group>"; };
+		006A8B391A3DBF36006E2BE8 /* jlis.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = jlis.cpp; sourceTree = "<group>"; };
+		006A8B3A1A3DBF36006E2BE8 /* klis.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = klis.in; sourceTree = "<group>"; };
+		006A8B3B1A3DBF36006E2BE8 /* klis.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = klis.py; sourceTree = "<group>"; };
+		006A8B3C1A3DBF36006E2BE8 /* numb3rs.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = numb3rs.cpp; sourceTree = "<group>"; };
+		006A8B3D1A3DBF36006E2BE8 /* numbergame.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = numbergame.cpp; sourceTree = "<group>"; };
+		006A8B3E1A3DBF36006E2BE8 /* ocr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ocr.cpp; sourceTree = "<group>"; };
+		006A8B3F1A3DBF36006E2BE8 /* packing.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = packing.cpp; sourceTree = "<group>"; };
+		006A8B401A3DBF36006E2BE8 /* packing.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = packing.in; sourceTree = "<group>"; };
+		006A8B411A3DBF36006E2BE8 /* packing.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = packing.py; sourceTree = "<group>"; };
+		006A8B421A3DBF36006E2BE8 /* pi.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = pi.cpp; sourceTree = "<group>"; };
+		006A8B431A3DBF36006E2BE8 /* pi.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = pi.in; sourceTree = "<group>"; };
+		006A8B441A3DBF36006E2BE8 /* pi.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = pi.py; sourceTree = "<group>"; };
+		006A8B451A3DBF36006E2BE8 /* poly.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = poly.in; sourceTree = "<group>"; };
+		006A8B461A3DBF36006E2BE8 /* poly.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = poly.py; sourceTree = "<group>"; };
+		006A8B471A3DBF36006E2BE8 /* quantization.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = quantization.cpp; sourceTree = "<group>"; };
+		006A8B481A3DBF36006E2BE8 /* restore.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = restore.cpp; sourceTree = "<group>"; };
+		006A8B491A3DBF36006E2BE8 /* sushi.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = sushi.cpp; sourceTree = "<group>"; };
+		006A8B4A1A3DBF36006E2BE8 /* wildcard.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = wildcard.cpp; sourceTree = "<group>"; };
+		006A8B4B1A3DBF36006E2BE8 /* wildcard.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = wildcard.in; sourceTree = "<group>"; };
+		006A8B4C1A3DBF36006E2BE8 /* wildcard.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = wildcard.py; sourceTree = "<group>"; };
+		006A8B4D1A3DBF36006E2BE8 /* zimbabwe.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = zimbabwe.cpp; sourceTree = "<group>"; };
+		006A8B501A3DBF36006E2BE8 /* A. The Triangle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. The Triangle.cpp"; sourceTree = "<group>"; };
+		006A8B511A3DBF36006E2BE8 /* B. FenceRepairing.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. FenceRepairing.cpp"; sourceTree = "<group>"; };
+		006A8B521A3DBF36006E2BE8 /* F. Bribe the Prisoners.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "F. Bribe the Prisoners.cpp"; sourceTree = "<group>"; };
+		006A8B541A3DBF36006E2BE8 /* D. 숫자 구슬.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "D. 숫자 구슬.cpp"; sourceTree = "<group>"; };
+		006A8B561A3DBF36006E2BE8 /* A. Palindromist.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Palindromist.cpp"; sourceTree = "<group>"; };
+		006A8B581A3DBF36006E2BE8 /* A. 낚시터의 즐거움.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. 낚시터의 즐거움.cpp"; sourceTree = "<group>"; };
+		006A8B591A3DBF36006E2BE8 /* B. 별 모양 검사.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. 별 모양 검사.cpp"; sourceTree = "<group>"; };
+		006A8B5A1A3DBF36006E2BE8 /* C. Too Many Ways to Go.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C. Too Many Ways to Go.cpp"; sourceTree = "<group>"; };
+		006A8B5B1A3DBF36006E2BE8 /* D. 격자 채우기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "D. 격자 채우기.cpp"; sourceTree = "<group>"; };
+		006A8B5C1A3DBF36006E2BE8 /* E. 경찰서 건설.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "E. 경찰서 건설.cpp"; sourceTree = "<group>"; };
+		006A8B5D1A3DBF36006E2BE8 /* F. 삼각 관계.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "F. 삼각 관계.cpp"; sourceTree = "<group>"; };
+		006A8B5E1A3DBF36006E2BE8 /* G. 더블 미역.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "G. 더블 미역.cpp"; sourceTree = "<group>"; };
+		006A8B5F1A3DBF36006E2BE8 /* H. 금단의 사랑.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "H. 금단의 사랑.cpp"; sourceTree = "<group>"; };
+		006A8B601A3DBF36006E2BE8 /* I. 한붓그리기 가능하게 고치기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "I. 한붓그리기 가능하게 고치기.cpp"; sourceTree = "<group>"; };
+		006A8B611A3DBF36006E2BE8 /* J. 그래프의 지름.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "J. 그래프의 지름.cpp"; sourceTree = "<group>"; };
+		006A8B621A3DBF36006E2BE8 /* K. Pascal's Travels.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "K. Pascal's Travels.cpp"; sourceTree = "<group>"; };
+		006A8B631A3DBF36006E2BE8 /* L. 브릿지 세기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "L. 브릿지 세기.cpp"; sourceTree = "<group>"; };
+		006A8B641A3DBF36006E2BE8 /* M. JongMan's Honeymoon.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "M. JongMan's Honeymoon.cpp"; sourceTree = "<group>"; };
+		006A8B651A3DBF36006E2BE8 /* N. 동전.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "N. 동전.cpp"; sourceTree = "<group>"; };
+		006A8B661A3DBF36006E2BE8 /* O. 키위 주스.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "O. 키위 주스.cpp"; sourceTree = "<group>"; };
+		006A8B671A3DBF36006E2BE8 /* P. 누르기 쉬운 전화번호.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "P. 누르기 쉬운 전화번호.cpp"; sourceTree = "<group>"; };
+		006A8B681A3DBF36006E2BE8 /* Q. 증감 수열.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Q. 증감 수열.cpp"; sourceTree = "<group>"; };
+		006A8B691A3DBF36006E2BE8 /* R. 잔치국수가락.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "R. 잔치국수가락.cpp"; sourceTree = "<group>"; };
+		006A8B6B1A3DBF36006E2BE8 /* A. 정리 못하는 정리베.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "A. 정리 못하는 정리베.py"; sourceTree = "<group>"; };
+		006A8B6C1A3DBF36006E2BE8 /* A0.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = A0.txt; sourceTree = "<group>"; };
+		006A8B6D1A3DBF36006E2BE8 /* A1.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = A1.out; sourceTree = "<group>"; };
+		006A8B6E1A3DBF36006E2BE8 /* A1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = A1.txt; sourceTree = "<group>"; };
+		006A8B6F1A3DBF36006E2BE8 /* A2.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = A2.out; sourceTree = "<group>"; };
+		006A8B701A3DBF36006E2BE8 /* A2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = A2.txt; sourceTree = "<group>"; };
+		006A8B711A3DBF36006E2BE8 /* bootstrapping.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = bootstrapping.txt; sourceTree = "<group>"; };
+		006A8B721A3DBF36006E2BE8 /* C. 재하와 버찌씨 여덟개.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C. 재하와 버찌씨 여덟개.cpp"; sourceTree = "<group>"; };
+		006A8B731A3DBF36006E2BE8 /* C. 재하와 버찌씨 여덟개.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "C. 재하와 버찌씨 여덟개.py"; sourceTree = "<group>"; };
+		006A8B741A3DBF36006E2BE8 /* C0.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = C0.txt; sourceTree = "<group>"; };
+		006A8B751A3DBF36006E2BE8 /* C1.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = C1.out; sourceTree = "<group>"; };
+		006A8B761A3DBF36006E2BE8 /* C1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = C1.txt; sourceTree = "<group>"; };
+		006A8B771A3DBF36006E2BE8 /* C2.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = C2.out; sourceTree = "<group>"; };
+		006A8B781A3DBF36006E2BE8 /* C2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = C2.txt; sourceTree = "<group>"; };
+		006A8B7A1A3DBF36006E2BE8 /* A1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = A1.txt; sourceTree = "<group>"; };
+		006A8B7B1A3DBF36006E2BE8 /* A2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = A2.txt; sourceTree = "<group>"; };
+		006A8B7C1A3DBF36006E2BE8 /* B1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = B1.txt; sourceTree = "<group>"; };
+		006A8B7D1A3DBF36006E2BE8 /* B2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = B2.txt; sourceTree = "<group>"; };
+		006A8B7E1A3DBF36006E2BE8 /* C1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = C1.txt; sourceTree = "<group>"; };
+		006A8B7F1A3DBF36006E2BE8 /* C2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = C2.txt; sourceTree = "<group>"; };
+		006A8B801A3DBF36006E2BE8 /* D1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = D1.txt; sourceTree = "<group>"; };
+		006A8B811A3DBF36006E2BE8 /* D2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = D2.txt; sourceTree = "<group>"; };
+		006A8B821A3DBF36006E2BE8 /* E1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = E1.txt; sourceTree = "<group>"; };
+		006A8B831A3DBF36006E2BE8 /* E2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = E2.txt; sourceTree = "<group>"; };
+		006A8B841A3DBF36006E2BE8 /* F1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = F1.txt; sourceTree = "<group>"; };
+		006A8B851A3DBF36006E2BE8 /* F2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = F2.txt; sourceTree = "<group>"; };
+		006A8B861A3DBF36006E2BE8 /* G1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = G1.txt; sourceTree = "<group>"; };
+		006A8B871A3DBF36006E2BE8 /* G2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = G2.txt; sourceTree = "<group>"; };
+		006A8B881A3DBF36006E2BE8 /* H1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = H1.txt; sourceTree = "<group>"; };
+		006A8B891A3DBF36006E2BE8 /* H2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = H2.txt; sourceTree = "<group>"; };
+		006A8B8A1A3DBF36006E2BE8 /* I1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = I1.txt; sourceTree = "<group>"; };
+		006A8B8B1A3DBF36006E2BE8 /* I2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = I2.txt; sourceTree = "<group>"; };
+		006A8B8C1A3DBF36006E2BE8 /* J1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = J1.txt; sourceTree = "<group>"; };
+		006A8B8D1A3DBF36006E2BE8 /* J2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = J2.txt; sourceTree = "<group>"; };
+		006A8B8E1A3DBF36006E2BE8 /* D. 퀴즈 퀴즈!.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "D. 퀴즈 퀴즈!.py"; sourceTree = "<group>"; };
+		006A8B8F1A3DBF36006E2BE8 /* D1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = D1.txt; sourceTree = "<group>"; };
+		006A8B901A3DBF36006E2BE8 /* I. 2N-Queen-Rook.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "I. 2N-Queen-Rook.py"; sourceTree = "<group>"; };
+		006A8B911A3DBF36006E2BE8 /* I1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = I1.txt; sourceTree = "<group>"; };
+		006A8B921A3DBF36006E2BE8 /* I2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = I2.txt; sourceTree = "<group>"; };
+		006A8B941A3DBF36006E2BE8 /* 9763. 마을의 친밀도.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "9763. 마을의 친밀도.cpp"; sourceTree = "<group>"; };
+		006A8B971A3DBF36006E2BE8 /* A. Wasted Time.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Wasted Time.cpp"; sourceTree = "<group>"; };
+		006A8B981A3DBF36006E2BE8 /* B. Canvan Frames.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Canvan Frames.cpp"; sourceTree = "<group>"; };
+		006A8B991A3DBF36006E2BE8 /* C. Hot Bath.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C. Hot Bath.cpp"; sourceTree = "<group>"; };
+		006A8B9A1A3DBF36006E2BE8 /* D. Password.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "D. Password.cpp"; sourceTree = "<group>"; };
+		006A8B9B1A3DBF36006E2BE8 /* E. E-reader Display.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "E. E-reader Display.cpp"; sourceTree = "<group>"; };
+		006A8B9D1A3DBF36006E2BE8 /* A. Cookies.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Cookies.cpp"; sourceTree = "<group>"; };
+		006A8B9E1A3DBF36006E2BE8 /* B. Students and Shoelaces.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Students and Shoelaces.cpp"; sourceTree = "<group>"; };
+		006A8B9F1A3DBF36006E2BE8 /* C. Statues.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C. Statues.cpp"; sourceTree = "<group>"; };
+		006A8BA01A3DBF36006E2BE8 /* D. String.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "D. String.cpp"; sourceTree = "<group>"; };
+		006A8BA11A3DBF36006E2BE8 /* E. Games with Rectangle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "E. Games with Rectangle.cpp"; sourceTree = "<group>"; };
+		006A8BA31A3DBF36006E2BE8 /* A. cAPS lOCK.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. cAPS lOCK.cpp"; sourceTree = "<group>"; };
+		006A8BA41A3DBF36006E2BE8 /* B. Opposites Attract.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Opposites Attract.cpp"; sourceTree = "<group>"; };
+		006A8BA51A3DBF36006E2BE8 /* C. The World is a Theatre.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C. The World is a Theatre.cpp"; sourceTree = "<group>"; };
+		006A8BA61A3DBF36006E2BE8 /* D. Subway.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "D. Subway.cpp"; sourceTree = "<group>"; };
+		006A8BA71A3DBF36006E2BE8 /* E. Yet Another Task with Queens.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "E. Yet Another Task with Queens.cpp"; sourceTree = "<group>"; };
+		006A8BA81A3DBF36006E2BE8 /* F. Present to Mom.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "F. Present to Mom.cpp"; sourceTree = "<group>"; };
+		006A8BAA1A3DBF36006E2BE8 /* A. Tiling with Hexagons.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Tiling with Hexagons.cpp"; sourceTree = "<group>"; };
+		006A8BAB1A3DBF36006E2BE8 /* B. Forming Teams.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Forming Teams.cpp"; sourceTree = "<group>"; };
+		006A8BAC1A3DBF36006E2BE8 /* C.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = C.cpp; sourceTree = "<group>"; };
+		006A8BAD1A3DBF36006E2BE8 /* D. Spider's Web.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "D. Spider's Web.cpp"; sourceTree = "<group>"; };
+		006A8BAE1A3DBF36006E2BE8 /* E.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = E.cpp; sourceTree = "<group>"; };
+		006A8BB01A3DBF36006E2BE8 /* A. k-String.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. k-String.cpp"; sourceTree = "<group>"; };
+		006A8BB11A3DBF36006E2BE8 /* B. Special Offer! Super Price 999 Bourles!.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Special Offer! Super Price 999 Bourles!.cpp"; sourceTree = "<group>"; };
+		006A8BB21A3DBF36006E2BE8 /* C. Color Stripe.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C. Color Stripe.cpp"; sourceTree = "<group>"; };
+		006A8BB31A3DBF36006E2BE8 /* D.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = D.cpp; sourceTree = "<group>"; };
+		006A8BB41A3DBF36006E2BE8 /* E.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = E.cpp; sourceTree = "<group>"; };
+		006A8BB61A3DBF36006E2BE8 /* A. Adding Digits.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Adding Digits.cpp"; sourceTree = "<group>"; };
+		006A8BB71A3DBF36006E2BE8 /* B. Ancient Prophesy.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Ancient Prophesy.cpp"; sourceTree = "<group>"; };
+		006A8BB91A3DBF36006E2BE8 /* A. Sockets.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Sockets.cpp"; sourceTree = "<group>"; };
+		006A8BBA1A3DBF36006E2BE8 /* B. Playing Cubes.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Playing Cubes.cpp"; sourceTree = "<group>"; };
+		006A8BBB1A3DBF36006E2BE8 /* C. View Angle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C. View Angle.cpp"; sourceTree = "<group>"; };
+		006A8BBD1A3DBF36006E2BE8 /* A. Lights Out.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Lights Out.cpp"; sourceTree = "<group>"; };
+		006A8BBE1A3DBF36006E2BE8 /* B. Convex Shape.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "B. Convex Shape.py"; sourceTree = "<group>"; };
+		006A8BBF1A3DBF36006E2BE8 /* B.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = B.in; sourceTree = "<group>"; };
+		006A8BC01A3DBF36006E2BE8 /* C. k-Multiple Free Set.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "C. k-Multiple Free Set.py"; sourceTree = "<group>"; };
+		006A8BC11A3DBF36006E2BE8 /* C.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = C.in; sourceTree = "<group>"; };
+		006A8BC21A3DBF36006E2BE8 /* D. Zero Tree.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "D. Zero Tree.py"; sourceTree = "<group>"; };
+		006A8BC31A3DBF36006E2BE8 /* D.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = D.in; sourceTree = "<group>"; };
+		006A8BC51A3DBF36006E2BE8 /* A. Circle Line.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "A. Circle Line.py"; sourceTree = "<group>"; };
+		006A8BC61A3DBF36006E2BE8 /* A.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = A.in; sourceTree = "<group>"; };
+		006A8BC71A3DBF36006E2BE8 /* B. New Problem.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "B. New Problem.py"; sourceTree = "<group>"; };
+		006A8BC81A3DBF36006E2BE8 /* B.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = B.in; sourceTree = "<group>"; };
+		006A8BC91A3DBF36006E2BE8 /* C. Learning Languages.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "C. Learning Languages.py"; sourceTree = "<group>"; };
+		006A8BCA1A3DBF36006E2BE8 /* C.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = C.in; sourceTree = "<group>"; };
+		006A8BCB1A3DBF36006E2BE8 /* D. Set of Points.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "D. Set of Points.py"; sourceTree = "<group>"; };
+		006A8BCC1A3DBF36006E2BE8 /* D.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = D.in; sourceTree = "<group>"; };
+		006A8BCE1A3DBF36006E2BE8 /* A. Bit++.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "A. Bit++.py"; sourceTree = "<group>"; };
+		006A8BCF1A3DBF36006E2BE8 /* B. Painting Eggs.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "B. Painting Eggs.py"; sourceTree = "<group>"; };
+		006A8BD01A3DBF36006E2BE8 /* B.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = B.in; sourceTree = "<group>"; };
+		006A8BD11A3DBF36006E2BE8 /* C. XOR and OR.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "C. XOR and OR.py"; sourceTree = "<group>"; };
+		006A8BD21A3DBF36006E2BE8 /* C.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = C.in; sourceTree = "<group>"; };
+		006A8BD31A3DBF36006E2BE8 /* E. Sausage Maximization.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "E. Sausage Maximization.py"; sourceTree = "<group>"; };
+		006A8BD41A3DBF36006E2BE8 /* E.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = E.in; sourceTree = "<group>"; };
+		006A8BD61A3DBF36006E2BE8 /* A. Shaass and Oskols.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "A. Shaass and Oskols.py"; sourceTree = "<group>"; };
+		006A8BD71A3DBF36006E2BE8 /* A.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = A.in; sourceTree = "<group>"; };
+		006A8BD81A3DBF36006E2BE8 /* B. Shaass and Bookshelf.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "B. Shaass and Bookshelf.py"; sourceTree = "<group>"; };
+		006A8BD91A3DBF36006E2BE8 /* B.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = B.in; sourceTree = "<group>"; };
+		006A8BDB1A3DBF36006E2BE8 /* A. TL.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "A. TL.py"; sourceTree = "<group>"; };
+		006A8BDC1A3DBF36006E2BE8 /* A.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = A.in; sourceTree = "<group>"; };
+		006A8BDD1A3DBF36006E2BE8 /* B. Resort.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "B. Resort.py"; sourceTree = "<group>"; };
+		006A8BDE1A3DBF36006E2BE8 /* B.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = B.in; sourceTree = "<group>"; };
+		006A8BDF1A3DBF36006E2BE8 /* C. Bombs.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C. Bombs.cpp"; sourceTree = "<group>"; };
+		006A8BE01A3DBF36006E2BE8 /* C. Bombs.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "C. Bombs.py"; sourceTree = "<group>"; };
+		006A8BE11A3DBF36006E2BE8 /* C.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = C.in; sourceTree = "<group>"; };
+		006A8BE21A3DBF36006E2BE8 /* D. Looking for Owls.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "D. Looking for Owls.cpp"; sourceTree = "<group>"; };
+		006A8BE31A3DBF36006E2BE8 /* E. Wrong Floyd.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "E. Wrong Floyd.py"; sourceTree = "<group>"; };
+		006A8BE41A3DBF36006E2BE8 /* E.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = E.in; sourceTree = "<group>"; };
+		006A8BE61A3DBF36006E2BE8 /* A. Jeff and Digits.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "A. Jeff and Digits.py"; sourceTree = "<group>"; };
+		006A8BE71A3DBF36006E2BE8 /* A.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = A.in; sourceTree = "<group>"; };
+		006A8BE81A3DBF36006E2BE8 /* B. Jeff and Periods.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "B. Jeff and Periods.py"; sourceTree = "<group>"; };
+		006A8BE91A3DBF36006E2BE8 /* B.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = B.in; sourceTree = "<group>"; };
+		006A8BEB1A3DBF36006E2BE8 /* A. Coder.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "A. Coder.py"; sourceTree = "<group>"; };
+		006A8BEC1A3DBF36006E2BE8 /* A.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = A.in; sourceTree = "<group>"; };
+		006A8BED1A3DBF36006E2BE8 /* B. Multitasking.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Multitasking.cpp"; sourceTree = "<group>"; };
+		006A8BEE1A3DBF36006E2BE8 /* B. Multitasking.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "B. Multitasking.py"; sourceTree = "<group>"; };
+		006A8BEF1A3DBF36006E2BE8 /* B.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = B.in; sourceTree = "<group>"; };
+		006A8BF01A3DBF36006E2BE8 /* C. Milking cows.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C. Milking cows.cpp"; sourceTree = "<group>"; };
+		006A8BF21A3DBF36006E2BE8 /* A. Guess a number!.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "A. Guess a number!.py"; sourceTree = "<group>"; };
+		006A8BF31A3DBF36006E2BE8 /* A.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = A.in; sourceTree = "<group>"; };
+		006A8BF41A3DBF36006E2BE8 /* B. Art Union.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "B. Art Union.py"; sourceTree = "<group>"; };
+		006A8BF51A3DBF36006E2BE8 /* B.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = B.in; sourceTree = "<group>"; };
+		006A8BF61A3DBF36006E2BE8 /* C. Booking System.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "C. Booking System.py"; sourceTree = "<group>"; };
+		006A8BF71A3DBF36006E2BE8 /* C.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = C.in; sourceTree = "<group>"; };
+		006A8BF91A3DBF36006E2BE8 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		006A8BFA1A3DBF36006E2BE8 /* main2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main2.cpp; sourceTree = "<group>"; };
+		006A8BFB1A3DBF36006E2BE8 /* main3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main3.cpp; sourceTree = "<group>"; };
+		006A8BFD1A3DBF36006E2BE8 /* Geometry Lib.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Geometry Lib.cpp"; sourceTree = "<group>"; };
+		006A8C001A3DBF36006E2BE8 /* 250. RainyRoad.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "250. RainyRoad.cpp"; sourceTree = "<group>"; };
+		006A8C011A3DBF36006E2BE8 /* 600. DropCoins.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "600. DropCoins.cpp"; sourceTree = "<group>"; };
+		006A8C031A3DBF36006E2BE8 /* 1000. CentaurCompanyDiv2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1000. CentaurCompanyDiv2.cpp"; sourceTree = "<group>"; };
+		006A8C041A3DBF36006E2BE8 /* 250. Chopsticks.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "250. Chopsticks.cpp"; sourceTree = "<group>"; };
+		006A8C051A3DBF36006E2BE8 /* 500. RobotHerbDiv2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "500. RobotHerbDiv2.cpp"; sourceTree = "<group>"; };
+		006A8C071A3DBF36006E2BE8 /* 250. EasyHomework.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "250. EasyHomework.cpp"; sourceTree = "<group>"; };
+		006A8C081A3DBF36006E2BE8 /* 500. NextOrPrev.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "500. NextOrPrev.cpp"; sourceTree = "<group>"; };
+		006A8C0B1A3DBF36006E2BE8 /* UVA 104 - Arbitrage.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 104 - Arbitrage.cpp"; sourceTree = "<group>"; };
+		006A8C0C1A3DBF36006E2BE8 /* UVA 117 - The Postal Worker Rings Once.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 117 - The Postal Worker Rings Once.cpp"; sourceTree = "<group>"; };
+		006A8C0D1A3DBF36006E2BE8 /* UVA 124 - Following Orders.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 124 - Following Orders.cpp"; sourceTree = "<group>"; };
+		006A8C0F1A3DBF36006E2BE8 /* UVA 10004 - Bicoloring.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 10004 - Bicoloring.cpp"; sourceTree = "<group>"; };
+		006A8C101A3DBF36006E2BE8 /* UVA 10048 - Audiophobia.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 10048 - Audiophobia.cpp"; sourceTree = "<group>"; };
+		006A8C121A3DBF36006E2BE8 /* UVA 10171 - Meeting Prof. Miguel....cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 10171 - Meeting Prof. Miguel....cpp"; sourceTree = "<group>"; };
+		006A8C131A3DBF36006E2BE8 /* UVA 10199 - Tourist Guide.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 10199 - Tourist Guide.cpp"; sourceTree = "<group>"; };
+		006A8C151A3DBF36006E2BE8 /* UVA 10305 - Ordering Tasks.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 10305 - Ordering Tasks.cpp"; sourceTree = "<group>"; };
+		006A8C161A3DBF36006E2BE8 /* UVA 10369 - Arctic Network.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 10369 - Arctic Network.cpp"; sourceTree = "<group>"; };
+		006A8C171A3DBF36006E2BE8 /* UVA 10397 - Connect the Campus.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 10397 - Connect the Campus.cpp"; sourceTree = "<group>"; };
+		006A8C191A3DBF36006E2BE8 /* UVA 10496 - Collecting Beepers.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 10496 - Collecting Beepers.cpp"; sourceTree = "<group>"; };
+		006A8C1B1A3DBF36006E2BE8 /* UVA 10557 - XYZZY.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 10557 - XYZZY.cpp"; sourceTree = "<group>"; };
+		006A8C1D1A3DBF36006E2BE8 /* UVA 10600 - ACM Contest and Blackout.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 10600 - ACM Contest and Blackout.cpp"; sourceTree = "<group>"; };
+		006A8C1E1A3DBF36006E2BE8 /* UVA 10653 - Bombs! NO they are Mines!!.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 10653 - Bombs! NO they are Mines!!.cpp"; sourceTree = "<group>"; };
+		006A8C201A3DBF36006E2BE8 /* UVA 10731 - Test.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 10731 - Test.cpp"; sourceTree = "<group>"; };
+		006A8C221A3DBF36006E2BE8 /* UVA 10801 - Lift Hopping.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 10801 - Lift Hopping.cpp"; sourceTree = "<group>"; };
+		006A8C241A3DBF36006E2BE8 /* UVA 11101 - Mall Mania.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 11101 - Mall Mania.cpp"; sourceTree = "<group>"; };
+		006A8C251A3DBF36006E2BE8 /* UVA 11110 - Equidivisions.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 11110 - Equidivisions.cpp"; sourceTree = "<group>"; };
+		006A8C271A3DBF36006E2BE8 /* UVA 11280 - Flying to Fredericton.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 11280 - Flying to Fredericton.cpp"; sourceTree = "<group>"; };
+		006A8C291A3DBF36006E2BE8 /* UVA 11463 - Commandos.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 11463 - Commandos.cpp"; sourceTree = "<group>"; };
+		006A8C2A1A3DBF36006E2BE8 /* UVA 11492 - Babel.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 11492 - Babel.cpp"; sourceTree = "<group>"; };
+		006A8C2C1A3DBF36006E2BE8 /* UVA 11504 - Dominos.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 11504 - Dominos.cpp"; sourceTree = "<group>"; };
+		006A8C2E1A3DBF36006E2BE8 /* UVA 11624 - Fire!.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 11624 - Fire!.cpp"; sourceTree = "<group>"; };
+		006A8C2F1A3DBF36006E2BE8 /* UVA 11631 - Dark roads.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 11631 - Dark roads.cpp"; sourceTree = "<group>"; };
+		006A8C311A3DBF36006E2BE8 /* UVA 11709 - Trust groups.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 11709 - Trust groups.cpp"; sourceTree = "<group>"; };
+		006A8C321A3DBF36006E2BE8 /* UVA 11747 - Heavy Cycle Edges.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 11747 - Heavy Cycle Edges.cpp"; sourceTree = "<group>"; };
+		006A8C341A3DBF36006E2BE8 /* UVA 216 - Getting in Line.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 216 - Getting in Line.cpp"; sourceTree = "<group>"; };
+		006A8C351A3DBF36006E2BE8 /* UVA 274 - Cat and Mouse.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 274 - Cat and Mouse.cpp"; sourceTree = "<group>"; };
+		006A8C361A3DBF36006E2BE8 /* UVA 291 - The House Of Santa Claus.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 291 - The House Of Santa Claus.cpp"; sourceTree = "<group>"; };
+		006A8C381A3DBF36006E2BE8 /* UVA 301 - Transportation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 301 - Transportation.cpp"; sourceTree = "<group>"; };
+		006A8C391A3DBF36006E2BE8 /* UVA 302 - John's Trip.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 302 - John's Trip.cpp"; sourceTree = "<group>"; };
+		006A8C3A1A3DBF36006E2BE8 /* UVA 314 - Robot.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 314 - Robot.cpp"; sourceTree = "<group>"; };
+		006A8C3B1A3DBF36006E2BE8 /* UVA 315 - Network.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 315 - Network.cpp"; sourceTree = "<group>"; };
+		006A8C3C1A3DBF36006E2BE8 /* UVA 334 - Identifying Concurrent Events.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 334 - Identifying Concurrent Events.cpp"; sourceTree = "<group>"; };
+		006A8C3D1A3DBF36006E2BE8 /* UVA 336 - A Node Too Far.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 336 - A Node Too Far.cpp"; sourceTree = "<group>"; };
+		006A8C3E1A3DBF36006E2BE8 /* UVA 341 - Non-Stop Travel.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 341 - Non-Stop Travel.cpp"; sourceTree = "<group>"; };
+		006A8C401A3DBF36006E2BE8 /* UVA 469 - Wetlands of Florida.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 469 - Wetlands of Florida.cpp"; sourceTree = "<group>"; };
+		006A8C421A3DBF36006E2BE8 /* UVA 524 - Prime Ring Problem.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 524 - Prime Ring Problem.cpp"; sourceTree = "<group>"; };
+		006A8C431A3DBF36006E2BE8 /* UVA 526 - String Distance and Transform Process.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 526 - String Distance and Transform Process.cpp"; sourceTree = "<group>"; };
+		006A8C441A3DBF36006E2BE8 /* UVA 532 - Dungeon Master.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 532 - Dungeon Master.cpp"; sourceTree = "<group>"; };
+		006A8C451A3DBF36006E2BE8 /* UVA 534 - Frogger.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 534 - Frogger.cpp"; sourceTree = "<group>"; };
+		006A8C461A3DBF36006E2BE8 /* UVA 544 - Heavy Cargo.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 544 - Heavy Cargo.cpp"; sourceTree = "<group>"; };
+		006A8C471A3DBF36006E2BE8 /* UVA 558 - Wormholes.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 558 - Wormholes.cpp"; sourceTree = "<group>"; };
+		006A8C491A3DBF36006E2BE8 /* UVA 657 - The die is cast.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 657 - The die is cast.cpp"; sourceTree = "<group>"; };
+		006A8C4B1A3DBF36006E2BE8 /* UVA 762 - We Ship Cheap.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 762 - We Ship Cheap.cpp"; sourceTree = "<group>"; };
+		006A8C4C1A3DBF36006E2BE8 /* UVA 796 - Critical Links.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 796 - Critical Links.cpp"; sourceTree = "<group>"; };
+		006A8C4E1A3DBF36006E2BE8 /* UVA 821 - Page Hopping.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 821 - Page Hopping.cpp"; sourceTree = "<group>"; };
+		006A8C4F1A3DBF36006E2BE8 /* UVA 869 - Airline Comparison.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 869 - Airline Comparison.cpp"; sourceTree = "<group>"; };
+		006A8C501A3DBF36006E2BE8 /* UVA 872 - Ordering.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 872 - Ordering.cpp"; sourceTree = "<group>"; };
+		006A8C521A3DBF36006E2BE8 /* UVA 908 - Re-connecting Computer Sites.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVA 908 - Re-connecting Computer Sites.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -293,7 +293,7 @@
 		0025F9071A3DBAAE00112BA0 = {
 			isa = PBXGroup;
 			children = (
-				0025F9201A3DBC7A00112BA0 /* Algorithm-Sources */,
+				006A8B121A3DBF36006E2BE8 /* Algorithm-Sources */,
 				0025F9111A3DBAAE00112BA0 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -306,770 +306,770 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		0025F9201A3DBC7A00112BA0 /* Algorithm-Sources */ = {
+		006A8B121A3DBF36006E2BE8 /* Algorithm-Sources */ = {
 			isa = PBXGroup;
 			children = (
-				0025F9211A3DBC7A00112BA0 /* ACM ICPC */,
-				0025F9241A3DBC7A00112BA0 /* Algospot */,
-				0025F9A11A3DBC7A00112BA0 /* BOJ */,
-				0025F9A31A3DBC7A00112BA0 /* Codeforces */,
-				0025FA061A3DBC7A00112BA0 /* Etc */,
-				0025FA0A1A3DBC7A00112BA0 /* Library */,
-				0025FA0C1A3DBC7A00112BA0 /* TopCoder */,
-				0025FA171A3DBC7A00112BA0 /* UVA */,
+				006A8B131A3DBF36006E2BE8 /* ACM ICPC */,
+				006A8B161A3DBF36006E2BE8 /* Algospot */,
+				006A8B931A3DBF36006E2BE8 /* BOJ */,
+				006A8B951A3DBF36006E2BE8 /* Codeforces */,
+				006A8BF81A3DBF36006E2BE8 /* Etc */,
+				006A8BFC1A3DBF36006E2BE8 /* Library */,
+				006A8BFE1A3DBF36006E2BE8 /* TopCoder */,
+				006A8C091A3DBF36006E2BE8 /* UVA */,
 			);
 			path = "Algorithm-Sources";
 			sourceTree = "<group>";
 		};
-		0025F9211A3DBC7A00112BA0 /* ACM ICPC */ = {
+		006A8B131A3DBF36006E2BE8 /* ACM ICPC */ = {
 			isa = PBXGroup;
 			children = (
-				0025F9221A3DBC7A00112BA0 /* ASIA Regionals - Deajeon 2010 */,
+				006A8B141A3DBF36006E2BE8 /* ASIA Regionals - Deajeon 2010 */,
 			);
 			path = "ACM ICPC";
 			sourceTree = "<group>";
 		};
-		0025F9221A3DBC7A00112BA0 /* ASIA Regionals - Deajeon 2010 */ = {
+		006A8B141A3DBF36006E2BE8 /* ASIA Regionals - Deajeon 2010 */ = {
 			isa = PBXGroup;
 			children = (
-				0025F9231A3DBC7A00112BA0 /* D. Mines.cpp */,
+				006A8B151A3DBF36006E2BE8 /* D. Mines.cpp */,
 			);
 			path = "ASIA Regionals - Deajeon 2010";
 			sourceTree = "<group>";
 		};
-		0025F9241A3DBC7A00112BA0 /* Algospot */ = {
+		006A8B161A3DBF36006E2BE8 /* Algospot */ = {
 			isa = PBXGroup;
 			children = (
-				0025F9251A3DBC7A00112BA0 /* 2011 ACM-ICPC Daejeon Regional Warm-up Contest */,
-				0025F92E1A3DBC7A00112BA0 /* Etc */,
-				0025F9301A3DBC7A00112BA0 /* 알고리즘 문제 해결 전략 */,
-				0025F95C1A3DBC7A00112BA0 /* 알고스팟 겨울캠프 */,
-				0025F9781A3DBC7A00112BA0 /* 제 1회 알고스팟 새싹 콘테스트 */,
+				006A8B171A3DBF36006E2BE8 /* 2011 ACM-ICPC Daejeon Regional Warm-up Contest */,
+				006A8B201A3DBF36006E2BE8 /* Etc */,
+				006A8B221A3DBF36006E2BE8 /* 알고리즘 문제 해결 전략 */,
+				006A8B4E1A3DBF36006E2BE8 /* 알고스팟 겨울캠프 */,
+				006A8B6A1A3DBF36006E2BE8 /* 제 1회 알고스팟 새싹 콘테스트 */,
 			);
 			path = Algospot;
 			sourceTree = "<group>";
 		};
-		0025F9251A3DBC7A00112BA0 /* 2011 ACM-ICPC Daejeon Regional Warm-up Contest */ = {
+		006A8B171A3DBF36006E2BE8 /* 2011 ACM-ICPC Daejeon Regional Warm-up Contest */ = {
 			isa = PBXGroup;
 			children = (
-				0025F9261A3DBC7A00112BA0 /* A. Final Exam.cpp */,
-				0025F9271A3DBC7A00112BA0 /* B. Pattern Lock.cpp */,
-				0025F9281A3DBC7A00112BA0 /* C. poPOWERwer.cpp */,
-				0025F9291A3DBC7A00112BA0 /* E. Prof. Chwa and his magicCircle class.cpp */,
-				0025F92A1A3DBC7A00112BA0 /* F. Unordered Subsequence 2.cpp */,
-				0025F92B1A3DBC7A00112BA0 /* G. Cubes Incognitanus, the liar.cpp */,
-				0025F92C1A3DBC7A00112BA0 /* H. Strobogrammatic Numbers.cpp */,
-				0025F92D1A3DBC7A00112BA0 /* J. Lecture Note.cpp */,
+				006A8B181A3DBF36006E2BE8 /* A. Final Exam.cpp */,
+				006A8B191A3DBF36006E2BE8 /* B. Pattern Lock.cpp */,
+				006A8B1A1A3DBF36006E2BE8 /* C. poPOWERwer.cpp */,
+				006A8B1B1A3DBF36006E2BE8 /* E. Prof. Chwa and his magicCircle class.cpp */,
+				006A8B1C1A3DBF36006E2BE8 /* F. Unordered Subsequence 2.cpp */,
+				006A8B1D1A3DBF36006E2BE8 /* G. Cubes Incognitanus, the liar.cpp */,
+				006A8B1E1A3DBF36006E2BE8 /* H. Strobogrammatic Numbers.cpp */,
+				006A8B1F1A3DBF36006E2BE8 /* J. Lecture Note.cpp */,
 			);
 			path = "2011 ACM-ICPC Daejeon Regional Warm-up Contest";
 			sourceTree = "<group>";
 		};
-		0025F92E1A3DBC7A00112BA0 /* Etc */ = {
+		006A8B201A3DBF36006E2BE8 /* Etc */ = {
 			isa = PBXGroup;
 			children = (
-				0025F92F1A3DBC7A00112BA0 /* Festival.cpp */,
+				006A8B211A3DBF36006E2BE8 /* Festival.cpp */,
 			);
 			path = Etc;
 			sourceTree = "<group>";
 		};
-		0025F9301A3DBC7A00112BA0 /* 알고리즘 문제 해결 전략 */ = {
+		006A8B221A3DBF36006E2BE8 /* 알고리즘 문제 해결 전략 */ = {
 			isa = PBXGroup;
 			children = (
-				0025F9311A3DBC7A00112BA0 /* Chapter 6 */,
-				0025F9391A3DBC7A00112BA0 /* Chapter 7 */,
-				0025F93F1A3DBC7A00112BA0 /* Chapter 8 */,
+				006A8B231A3DBF36006E2BE8 /* Chapter 6 */,
+				006A8B2B1A3DBF36006E2BE8 /* Chapter 7 */,
+				006A8B311A3DBF36006E2BE8 /* Chapter 8 */,
 			);
 			path = "알고리즘 문제 해결 전략";
 			sourceTree = "<group>";
 		};
-		0025F9311A3DBC7A00112BA0 /* Chapter 6 */ = {
+		006A8B231A3DBF36006E2BE8 /* Chapter 6 */ = {
 			isa = PBXGroup;
 			children = (
-				0025F9321A3DBC7A00112BA0 /* boardcover.cpp */,
-				0025F9331A3DBC7A00112BA0 /* boggle.in */,
-				0025F9341A3DBC7A00112BA0 /* boggle.py */,
-				0025F9351A3DBC7A00112BA0 /* clocksync.cpp */,
-				0025F9361A3DBC7A00112BA0 /* picnic.cpp */,
-				0025F9371A3DBC7A00112BA0 /* picnic.in */,
-				0025F9381A3DBC7A00112BA0 /* picnic.py */,
+				006A8B241A3DBF36006E2BE8 /* boardcover.cpp */,
+				006A8B251A3DBF36006E2BE8 /* boggle.in */,
+				006A8B261A3DBF36006E2BE8 /* boggle.py */,
+				006A8B271A3DBF36006E2BE8 /* clocksync.cpp */,
+				006A8B281A3DBF36006E2BE8 /* picnic.cpp */,
+				006A8B291A3DBF36006E2BE8 /* picnic.in */,
+				006A8B2A1A3DBF36006E2BE8 /* picnic.py */,
 			);
 			path = "Chapter 6";
 			sourceTree = "<group>";
 		};
-		0025F9391A3DBC7A00112BA0 /* Chapter 7 */ = {
+		006A8B2B1A3DBF36006E2BE8 /* Chapter 7 */ = {
 			isa = PBXGroup;
 			children = (
-				0025F93A1A3DBC7A00112BA0 /* fanmeeting.cpp */,
-				0025F93B1A3DBC7A00112BA0 /* fanmeeting.in */,
-				0025F93C1A3DBC7A00112BA0 /* fanmeeting.py */,
-				0025F93D1A3DBC7A00112BA0 /* fence.cpp */,
-				0025F93E1A3DBC7A00112BA0 /* quadtree.cpp */,
+				006A8B2C1A3DBF36006E2BE8 /* fanmeeting.cpp */,
+				006A8B2D1A3DBF36006E2BE8 /* fanmeeting.in */,
+				006A8B2E1A3DBF36006E2BE8 /* fanmeeting.py */,
+				006A8B2F1A3DBF36006E2BE8 /* fence.cpp */,
+				006A8B301A3DBF36006E2BE8 /* quadtree.cpp */,
 			);
 			path = "Chapter 7";
 			sourceTree = "<group>";
 		};
-		0025F93F1A3DBC7A00112BA0 /* Chapter 8 */ = {
+		006A8B311A3DBF36006E2BE8 /* Chapter 8 */ = {
 			isa = PBXGroup;
 			children = (
-				0025F9401A3DBC7A00112BA0 /* asymtiling.in */,
-				0025F9411A3DBC7A00112BA0 /* asymtiling.py */,
-				0025F9421A3DBC7A00112BA0 /* blockgame.cpp */,
-				0025F9431A3DBC7A00112BA0 /* blockgame.in */,
-				0025F9441A3DBC7A00112BA0 /* blockgame.py */,
-				0025F9451A3DBC7A00112BA0 /* dragon.in */,
-				0025F9461A3DBC7A00112BA0 /* dragon.py */,
-				0025F9471A3DBC7A00112BA0 /* jlis.cpp */,
-				0025F9481A3DBC7A00112BA0 /* klis.in */,
-				0025F9491A3DBC7A00112BA0 /* klis.py */,
-				0025F94A1A3DBC7A00112BA0 /* numb3rs.cpp */,
-				0025F94B1A3DBC7A00112BA0 /* numbergame.cpp */,
-				0025F94C1A3DBC7A00112BA0 /* ocr.cpp */,
-				0025F94D1A3DBC7A00112BA0 /* packing.cpp */,
-				0025F94E1A3DBC7A00112BA0 /* packing.in */,
-				0025F94F1A3DBC7A00112BA0 /* packing.py */,
-				0025F9501A3DBC7A00112BA0 /* pi.cpp */,
-				0025F9511A3DBC7A00112BA0 /* pi.in */,
-				0025F9521A3DBC7A00112BA0 /* pi.py */,
-				0025F9531A3DBC7A00112BA0 /* poly.in */,
-				0025F9541A3DBC7A00112BA0 /* poly.py */,
-				0025F9551A3DBC7A00112BA0 /* quantization.cpp */,
-				0025F9561A3DBC7A00112BA0 /* restore.cpp */,
-				0025F9571A3DBC7A00112BA0 /* sushi.cpp */,
-				0025F9581A3DBC7A00112BA0 /* wildcard.cpp */,
-				0025F9591A3DBC7A00112BA0 /* wildcard.in */,
-				0025F95A1A3DBC7A00112BA0 /* wildcard.py */,
-				0025F95B1A3DBC7A00112BA0 /* zimbabwe.cpp */,
+				006A8B321A3DBF36006E2BE8 /* asymtiling.in */,
+				006A8B331A3DBF36006E2BE8 /* asymtiling.py */,
+				006A8B341A3DBF36006E2BE8 /* blockgame.cpp */,
+				006A8B351A3DBF36006E2BE8 /* blockgame.in */,
+				006A8B361A3DBF36006E2BE8 /* blockgame.py */,
+				006A8B371A3DBF36006E2BE8 /* dragon.in */,
+				006A8B381A3DBF36006E2BE8 /* dragon.py */,
+				006A8B391A3DBF36006E2BE8 /* jlis.cpp */,
+				006A8B3A1A3DBF36006E2BE8 /* klis.in */,
+				006A8B3B1A3DBF36006E2BE8 /* klis.py */,
+				006A8B3C1A3DBF36006E2BE8 /* numb3rs.cpp */,
+				006A8B3D1A3DBF36006E2BE8 /* numbergame.cpp */,
+				006A8B3E1A3DBF36006E2BE8 /* ocr.cpp */,
+				006A8B3F1A3DBF36006E2BE8 /* packing.cpp */,
+				006A8B401A3DBF36006E2BE8 /* packing.in */,
+				006A8B411A3DBF36006E2BE8 /* packing.py */,
+				006A8B421A3DBF36006E2BE8 /* pi.cpp */,
+				006A8B431A3DBF36006E2BE8 /* pi.in */,
+				006A8B441A3DBF36006E2BE8 /* pi.py */,
+				006A8B451A3DBF36006E2BE8 /* poly.in */,
+				006A8B461A3DBF36006E2BE8 /* poly.py */,
+				006A8B471A3DBF36006E2BE8 /* quantization.cpp */,
+				006A8B481A3DBF36006E2BE8 /* restore.cpp */,
+				006A8B491A3DBF36006E2BE8 /* sushi.cpp */,
+				006A8B4A1A3DBF36006E2BE8 /* wildcard.cpp */,
+				006A8B4B1A3DBF36006E2BE8 /* wildcard.in */,
+				006A8B4C1A3DBF36006E2BE8 /* wildcard.py */,
+				006A8B4D1A3DBF36006E2BE8 /* zimbabwe.cpp */,
 			);
 			path = "Chapter 8";
 			sourceTree = "<group>";
 		};
-		0025F95C1A3DBC7A00112BA0 /* 알고스팟 겨울캠프 */ = {
+		006A8B4E1A3DBF36006E2BE8 /* 알고스팟 겨울캠프 */ = {
 			isa = PBXGroup;
 			children = (
-				0025F95D1A3DBC7A00112BA0 /* DP World 1 */,
-				0025F9611A3DBC7A00112BA0 /* DP World 2 */,
-				0025F9631A3DBC7A00112BA0 /* DP World 3 */,
-				0025F9651A3DBC7A00112BA0 /* 배치고사 */,
+				006A8B4F1A3DBF36006E2BE8 /* DP World 1 */,
+				006A8B531A3DBF36006E2BE8 /* DP World 2 */,
+				006A8B551A3DBF36006E2BE8 /* DP World 3 */,
+				006A8B571A3DBF36006E2BE8 /* 배치고사 */,
 			);
 			path = "알고스팟 겨울캠프";
 			sourceTree = "<group>";
 		};
-		0025F95D1A3DBC7A00112BA0 /* DP World 1 */ = {
+		006A8B4F1A3DBF36006E2BE8 /* DP World 1 */ = {
 			isa = PBXGroup;
 			children = (
-				0025F95E1A3DBC7A00112BA0 /* A. The Triangle.cpp */,
-				0025F95F1A3DBC7A00112BA0 /* B. FenceRepairing.cpp */,
-				0025F9601A3DBC7A00112BA0 /* F. Bribe the Prisoners.cpp */,
+				006A8B501A3DBF36006E2BE8 /* A. The Triangle.cpp */,
+				006A8B511A3DBF36006E2BE8 /* B. FenceRepairing.cpp */,
+				006A8B521A3DBF36006E2BE8 /* F. Bribe the Prisoners.cpp */,
 			);
 			path = "DP World 1";
 			sourceTree = "<group>";
 		};
-		0025F9611A3DBC7A00112BA0 /* DP World 2 */ = {
+		006A8B531A3DBF36006E2BE8 /* DP World 2 */ = {
 			isa = PBXGroup;
 			children = (
-				0025F9621A3DBC7A00112BA0 /* D. 숫자 구슬.cpp */,
+				006A8B541A3DBF36006E2BE8 /* D. 숫자 구슬.cpp */,
 			);
 			path = "DP World 2";
 			sourceTree = "<group>";
 		};
-		0025F9631A3DBC7A00112BA0 /* DP World 3 */ = {
+		006A8B551A3DBF36006E2BE8 /* DP World 3 */ = {
 			isa = PBXGroup;
 			children = (
-				0025F9641A3DBC7A00112BA0 /* A. Palindromist.cpp */,
+				006A8B561A3DBF36006E2BE8 /* A. Palindromist.cpp */,
 			);
 			path = "DP World 3";
 			sourceTree = "<group>";
 		};
-		0025F9651A3DBC7A00112BA0 /* 배치고사 */ = {
+		006A8B571A3DBF36006E2BE8 /* 배치고사 */ = {
 			isa = PBXGroup;
 			children = (
-				0025F9661A3DBC7A00112BA0 /* A. 낚시터의 즐거움.cpp */,
-				0025F9671A3DBC7A00112BA0 /* B. 별 모양 검사.cpp */,
-				0025F9681A3DBC7A00112BA0 /* C. Too Many Ways to Go.cpp */,
-				0025F9691A3DBC7A00112BA0 /* D. 격자 채우기.cpp */,
-				0025F96A1A3DBC7A00112BA0 /* E. 경찰서 건설.cpp */,
-				0025F96B1A3DBC7A00112BA0 /* F. 삼각 관계.cpp */,
-				0025F96C1A3DBC7A00112BA0 /* G. 더블 미역.cpp */,
-				0025F96D1A3DBC7A00112BA0 /* H. 금단의 사랑.cpp */,
-				0025F96E1A3DBC7A00112BA0 /* I. 한붓그리기 가능하게 고치기.cpp */,
-				0025F96F1A3DBC7A00112BA0 /* J. 그래프의 지름.cpp */,
-				0025F9701A3DBC7A00112BA0 /* K. Pascal's Travels.cpp */,
-				0025F9711A3DBC7A00112BA0 /* L. 브릿지 세기.cpp */,
-				0025F9721A3DBC7A00112BA0 /* M. JongMan's Honeymoon.cpp */,
-				0025F9731A3DBC7A00112BA0 /* N. 동전.cpp */,
-				0025F9741A3DBC7A00112BA0 /* O. 키위 주스.cpp */,
-				0025F9751A3DBC7A00112BA0 /* P. 누르기 쉬운 전화번호.cpp */,
-				0025F9761A3DBC7A00112BA0 /* Q. 증감 수열.cpp */,
-				0025F9771A3DBC7A00112BA0 /* R. 잔치국수가락.cpp */,
+				006A8B581A3DBF36006E2BE8 /* A. 낚시터의 즐거움.cpp */,
+				006A8B591A3DBF36006E2BE8 /* B. 별 모양 검사.cpp */,
+				006A8B5A1A3DBF36006E2BE8 /* C. Too Many Ways to Go.cpp */,
+				006A8B5B1A3DBF36006E2BE8 /* D. 격자 채우기.cpp */,
+				006A8B5C1A3DBF36006E2BE8 /* E. 경찰서 건설.cpp */,
+				006A8B5D1A3DBF36006E2BE8 /* F. 삼각 관계.cpp */,
+				006A8B5E1A3DBF36006E2BE8 /* G. 더블 미역.cpp */,
+				006A8B5F1A3DBF36006E2BE8 /* H. 금단의 사랑.cpp */,
+				006A8B601A3DBF36006E2BE8 /* I. 한붓그리기 가능하게 고치기.cpp */,
+				006A8B611A3DBF36006E2BE8 /* J. 그래프의 지름.cpp */,
+				006A8B621A3DBF36006E2BE8 /* K. Pascal's Travels.cpp */,
+				006A8B631A3DBF36006E2BE8 /* L. 브릿지 세기.cpp */,
+				006A8B641A3DBF36006E2BE8 /* M. JongMan's Honeymoon.cpp */,
+				006A8B651A3DBF36006E2BE8 /* N. 동전.cpp */,
+				006A8B661A3DBF36006E2BE8 /* O. 키위 주스.cpp */,
+				006A8B671A3DBF36006E2BE8 /* P. 누르기 쉬운 전화번호.cpp */,
+				006A8B681A3DBF36006E2BE8 /* Q. 증감 수열.cpp */,
+				006A8B691A3DBF36006E2BE8 /* R. 잔치국수가락.cpp */,
 			);
 			path = "배치고사";
 			sourceTree = "<group>";
 		};
-		0025F9781A3DBC7A00112BA0 /* 제 1회 알고스팟 새싹 콘테스트 */ = {
+		006A8B6A1A3DBF36006E2BE8 /* 제 1회 알고스팟 새싹 콘테스트 */ = {
 			isa = PBXGroup;
 			children = (
-				0025F9791A3DBC7A00112BA0 /* A. 정리 못하는 정리베.py */,
-				0025F97A1A3DBC7A00112BA0 /* A0.txt */,
-				0025F97B1A3DBC7A00112BA0 /* A1.out */,
-				0025F97C1A3DBC7A00112BA0 /* A1.txt */,
-				0025F97D1A3DBC7A00112BA0 /* A2.out */,
-				0025F97E1A3DBC7A00112BA0 /* A2.txt */,
-				0025F97F1A3DBC7A00112BA0 /* bootstrapping.txt */,
-				0025F9801A3DBC7A00112BA0 /* C. 재하와 버찌씨 여덟개.cpp */,
-				0025F9811A3DBC7A00112BA0 /* C. 재하와 버찌씨 여덟개.py */,
-				0025F9821A3DBC7A00112BA0 /* C0.txt */,
-				0025F9831A3DBC7A00112BA0 /* C1.out */,
-				0025F9841A3DBC7A00112BA0 /* C1.txt */,
-				0025F9851A3DBC7A00112BA0 /* C2.out */,
-				0025F9861A3DBC7A00112BA0 /* C2.txt */,
-				0025F9871A3DBC7A00112BA0 /* contest_input */,
-				0025F99C1A3DBC7A00112BA0 /* D. 퀴즈 퀴즈!.py */,
-				0025F99D1A3DBC7A00112BA0 /* D1.txt */,
-				0025F99E1A3DBC7A00112BA0 /* I. 2N-Queen-Rook.py */,
-				0025F99F1A3DBC7A00112BA0 /* I1.txt */,
-				0025F9A01A3DBC7A00112BA0 /* I2.txt */,
+				006A8B6B1A3DBF36006E2BE8 /* A. 정리 못하는 정리베.py */,
+				006A8B6C1A3DBF36006E2BE8 /* A0.txt */,
+				006A8B6D1A3DBF36006E2BE8 /* A1.out */,
+				006A8B6E1A3DBF36006E2BE8 /* A1.txt */,
+				006A8B6F1A3DBF36006E2BE8 /* A2.out */,
+				006A8B701A3DBF36006E2BE8 /* A2.txt */,
+				006A8B711A3DBF36006E2BE8 /* bootstrapping.txt */,
+				006A8B721A3DBF36006E2BE8 /* C. 재하와 버찌씨 여덟개.cpp */,
+				006A8B731A3DBF36006E2BE8 /* C. 재하와 버찌씨 여덟개.py */,
+				006A8B741A3DBF36006E2BE8 /* C0.txt */,
+				006A8B751A3DBF36006E2BE8 /* C1.out */,
+				006A8B761A3DBF36006E2BE8 /* C1.txt */,
+				006A8B771A3DBF36006E2BE8 /* C2.out */,
+				006A8B781A3DBF36006E2BE8 /* C2.txt */,
+				006A8B791A3DBF36006E2BE8 /* contest_input */,
+				006A8B8E1A3DBF36006E2BE8 /* D. 퀴즈 퀴즈!.py */,
+				006A8B8F1A3DBF36006E2BE8 /* D1.txt */,
+				006A8B901A3DBF36006E2BE8 /* I. 2N-Queen-Rook.py */,
+				006A8B911A3DBF36006E2BE8 /* I1.txt */,
+				006A8B921A3DBF36006E2BE8 /* I2.txt */,
 			);
 			path = "제 1회 알고스팟 새싹 콘테스트";
 			sourceTree = "<group>";
 		};
-		0025F9871A3DBC7A00112BA0 /* contest_input */ = {
+		006A8B791A3DBF36006E2BE8 /* contest_input */ = {
 			isa = PBXGroup;
 			children = (
-				0025F9881A3DBC7A00112BA0 /* A1.txt */,
-				0025F9891A3DBC7A00112BA0 /* A2.txt */,
-				0025F98A1A3DBC7A00112BA0 /* B1.txt */,
-				0025F98B1A3DBC7A00112BA0 /* B2.txt */,
-				0025F98C1A3DBC7A00112BA0 /* C1.txt */,
-				0025F98D1A3DBC7A00112BA0 /* C2.txt */,
-				0025F98E1A3DBC7A00112BA0 /* D1.txt */,
-				0025F98F1A3DBC7A00112BA0 /* D2.txt */,
-				0025F9901A3DBC7A00112BA0 /* E1.txt */,
-				0025F9911A3DBC7A00112BA0 /* E2.txt */,
-				0025F9921A3DBC7A00112BA0 /* F1.txt */,
-				0025F9931A3DBC7A00112BA0 /* F2.txt */,
-				0025F9941A3DBC7A00112BA0 /* G1.txt */,
-				0025F9951A3DBC7A00112BA0 /* G2.txt */,
-				0025F9961A3DBC7A00112BA0 /* H1.txt */,
-				0025F9971A3DBC7A00112BA0 /* H2.txt */,
-				0025F9981A3DBC7A00112BA0 /* I1.txt */,
-				0025F9991A3DBC7A00112BA0 /* I2.txt */,
-				0025F99A1A3DBC7A00112BA0 /* J1.txt */,
-				0025F99B1A3DBC7A00112BA0 /* J2.txt */,
+				006A8B7A1A3DBF36006E2BE8 /* A1.txt */,
+				006A8B7B1A3DBF36006E2BE8 /* A2.txt */,
+				006A8B7C1A3DBF36006E2BE8 /* B1.txt */,
+				006A8B7D1A3DBF36006E2BE8 /* B2.txt */,
+				006A8B7E1A3DBF36006E2BE8 /* C1.txt */,
+				006A8B7F1A3DBF36006E2BE8 /* C2.txt */,
+				006A8B801A3DBF36006E2BE8 /* D1.txt */,
+				006A8B811A3DBF36006E2BE8 /* D2.txt */,
+				006A8B821A3DBF36006E2BE8 /* E1.txt */,
+				006A8B831A3DBF36006E2BE8 /* E2.txt */,
+				006A8B841A3DBF36006E2BE8 /* F1.txt */,
+				006A8B851A3DBF36006E2BE8 /* F2.txt */,
+				006A8B861A3DBF36006E2BE8 /* G1.txt */,
+				006A8B871A3DBF36006E2BE8 /* G2.txt */,
+				006A8B881A3DBF36006E2BE8 /* H1.txt */,
+				006A8B891A3DBF36006E2BE8 /* H2.txt */,
+				006A8B8A1A3DBF36006E2BE8 /* I1.txt */,
+				006A8B8B1A3DBF36006E2BE8 /* I2.txt */,
+				006A8B8C1A3DBF36006E2BE8 /* J1.txt */,
+				006A8B8D1A3DBF36006E2BE8 /* J2.txt */,
 			);
 			path = contest_input;
 			sourceTree = "<group>";
 		};
-		0025F9A11A3DBC7A00112BA0 /* BOJ */ = {
+		006A8B931A3DBF36006E2BE8 /* BOJ */ = {
 			isa = PBXGroup;
 			children = (
-				0025F9A21A3DBC7A00112BA0 /* 9763. 마을의 친밀도.cpp */,
+				006A8B941A3DBF36006E2BE8 /* 9763. 마을의 친밀도.cpp */,
 			);
 			path = BOJ;
 			sourceTree = "<group>";
 		};
-		0025F9A31A3DBC7A00112BA0 /* Codeforces */ = {
+		006A8B951A3DBF36006E2BE8 /* Codeforces */ = {
 			isa = PBXGroup;
 			children = (
-				0025F9A41A3DBC7A00112BA0 /* Codeforces Beta Round #93 Div.2 */,
-				0025F9AA1A3DBC7A00112BA0 /* Codeforces Beta Round #94 Div.2 */,
-				0025F9B01A3DBC7A00112BA0 /* Codeforces Beta Round #95 Div.2 */,
-				0025F9B71A3DBC7A00112BA0 /* Codeforces Round #133 Div.2 */,
-				0025F9BD1A3DBC7A00112BA0 /* Codeforces Round #135 Div.2 */,
-				0025F9C31A3DBC7A00112BA0 /* Codeforces Round #158 Div.2 */,
-				0025F9C61A3DBC7A00112BA0 /* Codeforces Round #159 Div.2 */,
-				0025F9CA1A3DBC7A00112BA0 /* Codeforces Round #168 Div.2 */,
-				0025F9D21A3DBC7A00112BA0 /* Codeforces Round #170 Div.2 */,
-				0025F9DB1A3DBC7A00112BA0 /* Codeforces Round #173 Div.2 */,
-				0025F9E31A3DBC7A00112BA0 /* Codeforces Round #178 Div.2 */,
-				0025F9E81A3DBC7A00112BA0 /* Codeforces Round #203 Div.2 */,
-				0025F9F31A3DBC7A00112BA0 /* Codeforces Round #204 Div.2 */,
-				0025F9F81A3DBC7A00112BA0 /* Codeforces Round #225 Div.2 */,
-				0025F9FF1A3DBC7A00112BA0 /* Codeforces Round #241 Div.2 */,
+				006A8B961A3DBF36006E2BE8 /* Codeforces Beta Round #93 Div.2 */,
+				006A8B9C1A3DBF36006E2BE8 /* Codeforces Beta Round #94 Div.2 */,
+				006A8BA21A3DBF36006E2BE8 /* Codeforces Beta Round #95 Div.2 */,
+				006A8BA91A3DBF36006E2BE8 /* Codeforces Round #133 Div.2 */,
+				006A8BAF1A3DBF36006E2BE8 /* Codeforces Round #135 Div.2 */,
+				006A8BB51A3DBF36006E2BE8 /* Codeforces Round #158 Div.2 */,
+				006A8BB81A3DBF36006E2BE8 /* Codeforces Round #159 Div.2 */,
+				006A8BBC1A3DBF36006E2BE8 /* Codeforces Round #168 Div.2 */,
+				006A8BC41A3DBF36006E2BE8 /* Codeforces Round #170 Div.2 */,
+				006A8BCD1A3DBF36006E2BE8 /* Codeforces Round #173 Div.2 */,
+				006A8BD51A3DBF36006E2BE8 /* Codeforces Round #178 Div.2 */,
+				006A8BDA1A3DBF36006E2BE8 /* Codeforces Round #203 Div.2 */,
+				006A8BE51A3DBF36006E2BE8 /* Codeforces Round #204 Div.2 */,
+				006A8BEA1A3DBF36006E2BE8 /* Codeforces Round #225 Div.2 */,
+				006A8BF11A3DBF36006E2BE8 /* Codeforces Round #241 Div.2 */,
 			);
 			path = Codeforces;
 			sourceTree = "<group>";
 		};
-		0025F9A41A3DBC7A00112BA0 /* Codeforces Beta Round #93 Div.2 */ = {
+		006A8B961A3DBF36006E2BE8 /* Codeforces Beta Round #93 Div.2 */ = {
 			isa = PBXGroup;
 			children = (
-				0025F9A51A3DBC7A00112BA0 /* A. Wasted Time.cpp */,
-				0025F9A61A3DBC7A00112BA0 /* B. Canvan Frames.cpp */,
-				0025F9A71A3DBC7A00112BA0 /* C. Hot Bath.cpp */,
-				0025F9A81A3DBC7A00112BA0 /* D. Password.cpp */,
-				0025F9A91A3DBC7A00112BA0 /* E. E-reader Display.cpp */,
+				006A8B971A3DBF36006E2BE8 /* A. Wasted Time.cpp */,
+				006A8B981A3DBF36006E2BE8 /* B. Canvan Frames.cpp */,
+				006A8B991A3DBF36006E2BE8 /* C. Hot Bath.cpp */,
+				006A8B9A1A3DBF36006E2BE8 /* D. Password.cpp */,
+				006A8B9B1A3DBF36006E2BE8 /* E. E-reader Display.cpp */,
 			);
 			path = "Codeforces Beta Round #93 Div.2";
 			sourceTree = "<group>";
 		};
-		0025F9AA1A3DBC7A00112BA0 /* Codeforces Beta Round #94 Div.2 */ = {
+		006A8B9C1A3DBF36006E2BE8 /* Codeforces Beta Round #94 Div.2 */ = {
 			isa = PBXGroup;
 			children = (
-				0025F9AB1A3DBC7A00112BA0 /* A. Cookies.cpp */,
-				0025F9AC1A3DBC7A00112BA0 /* B. Students and Shoelaces.cpp */,
-				0025F9AD1A3DBC7A00112BA0 /* C. Statues.cpp */,
-				0025F9AE1A3DBC7A00112BA0 /* D. String.cpp */,
-				0025F9AF1A3DBC7A00112BA0 /* E. Games with Rectangle.cpp */,
+				006A8B9D1A3DBF36006E2BE8 /* A. Cookies.cpp */,
+				006A8B9E1A3DBF36006E2BE8 /* B. Students and Shoelaces.cpp */,
+				006A8B9F1A3DBF36006E2BE8 /* C. Statues.cpp */,
+				006A8BA01A3DBF36006E2BE8 /* D. String.cpp */,
+				006A8BA11A3DBF36006E2BE8 /* E. Games with Rectangle.cpp */,
 			);
 			path = "Codeforces Beta Round #94 Div.2";
 			sourceTree = "<group>";
 		};
-		0025F9B01A3DBC7A00112BA0 /* Codeforces Beta Round #95 Div.2 */ = {
+		006A8BA21A3DBF36006E2BE8 /* Codeforces Beta Round #95 Div.2 */ = {
 			isa = PBXGroup;
 			children = (
-				0025F9B11A3DBC7A00112BA0 /* A. cAPS lOCK.cpp */,
-				0025F9B21A3DBC7A00112BA0 /* B. Opposites Attract.cpp */,
-				0025F9B31A3DBC7A00112BA0 /* C. The World is a Theatre.cpp */,
-				0025F9B41A3DBC7A00112BA0 /* D. Subway.cpp */,
-				0025F9B51A3DBC7A00112BA0 /* E. Yet Another Task with Queens.cpp */,
-				0025F9B61A3DBC7A00112BA0 /* F. Present to Mom.cpp */,
+				006A8BA31A3DBF36006E2BE8 /* A. cAPS lOCK.cpp */,
+				006A8BA41A3DBF36006E2BE8 /* B. Opposites Attract.cpp */,
+				006A8BA51A3DBF36006E2BE8 /* C. The World is a Theatre.cpp */,
+				006A8BA61A3DBF36006E2BE8 /* D. Subway.cpp */,
+				006A8BA71A3DBF36006E2BE8 /* E. Yet Another Task with Queens.cpp */,
+				006A8BA81A3DBF36006E2BE8 /* F. Present to Mom.cpp */,
 			);
 			path = "Codeforces Beta Round #95 Div.2";
 			sourceTree = "<group>";
 		};
-		0025F9B71A3DBC7A00112BA0 /* Codeforces Round #133 Div.2 */ = {
+		006A8BA91A3DBF36006E2BE8 /* Codeforces Round #133 Div.2 */ = {
 			isa = PBXGroup;
 			children = (
-				0025F9B81A3DBC7A00112BA0 /* A. Tiling with Hexagons.cpp */,
-				0025F9B91A3DBC7A00112BA0 /* B. Forming Teams.cpp */,
-				0025F9BA1A3DBC7A00112BA0 /* C.cpp */,
-				0025F9BB1A3DBC7A00112BA0 /* D. Spider's Web.cpp */,
-				0025F9BC1A3DBC7A00112BA0 /* E.cpp */,
+				006A8BAA1A3DBF36006E2BE8 /* A. Tiling with Hexagons.cpp */,
+				006A8BAB1A3DBF36006E2BE8 /* B. Forming Teams.cpp */,
+				006A8BAC1A3DBF36006E2BE8 /* C.cpp */,
+				006A8BAD1A3DBF36006E2BE8 /* D. Spider's Web.cpp */,
+				006A8BAE1A3DBF36006E2BE8 /* E.cpp */,
 			);
 			path = "Codeforces Round #133 Div.2";
 			sourceTree = "<group>";
 		};
-		0025F9BD1A3DBC7A00112BA0 /* Codeforces Round #135 Div.2 */ = {
+		006A8BAF1A3DBF36006E2BE8 /* Codeforces Round #135 Div.2 */ = {
 			isa = PBXGroup;
 			children = (
-				0025F9BE1A3DBC7A00112BA0 /* A. k-String.cpp */,
-				0025F9BF1A3DBC7A00112BA0 /* B. Special Offer! Super Price 999 Bourles!.cpp */,
-				0025F9C01A3DBC7A00112BA0 /* C. Color Stripe.cpp */,
-				0025F9C11A3DBC7A00112BA0 /* D.cpp */,
-				0025F9C21A3DBC7A00112BA0 /* E.cpp */,
+				006A8BB01A3DBF36006E2BE8 /* A. k-String.cpp */,
+				006A8BB11A3DBF36006E2BE8 /* B. Special Offer! Super Price 999 Bourles!.cpp */,
+				006A8BB21A3DBF36006E2BE8 /* C. Color Stripe.cpp */,
+				006A8BB31A3DBF36006E2BE8 /* D.cpp */,
+				006A8BB41A3DBF36006E2BE8 /* E.cpp */,
 			);
 			path = "Codeforces Round #135 Div.2";
 			sourceTree = "<group>";
 		};
-		0025F9C31A3DBC7A00112BA0 /* Codeforces Round #158 Div.2 */ = {
+		006A8BB51A3DBF36006E2BE8 /* Codeforces Round #158 Div.2 */ = {
 			isa = PBXGroup;
 			children = (
-				0025F9C41A3DBC7A00112BA0 /* A. Adding Digits.cpp */,
-				0025F9C51A3DBC7A00112BA0 /* B. Ancient Prophesy.cpp */,
+				006A8BB61A3DBF36006E2BE8 /* A. Adding Digits.cpp */,
+				006A8BB71A3DBF36006E2BE8 /* B. Ancient Prophesy.cpp */,
 			);
 			path = "Codeforces Round #158 Div.2";
 			sourceTree = "<group>";
 		};
-		0025F9C61A3DBC7A00112BA0 /* Codeforces Round #159 Div.2 */ = {
+		006A8BB81A3DBF36006E2BE8 /* Codeforces Round #159 Div.2 */ = {
 			isa = PBXGroup;
 			children = (
-				0025F9C71A3DBC7A00112BA0 /* A. Sockets.cpp */,
-				0025F9C81A3DBC7A00112BA0 /* B. Playing Cubes.cpp */,
-				0025F9C91A3DBC7A00112BA0 /* C. View Angle.cpp */,
+				006A8BB91A3DBF36006E2BE8 /* A. Sockets.cpp */,
+				006A8BBA1A3DBF36006E2BE8 /* B. Playing Cubes.cpp */,
+				006A8BBB1A3DBF36006E2BE8 /* C. View Angle.cpp */,
 			);
 			path = "Codeforces Round #159 Div.2";
 			sourceTree = "<group>";
 		};
-		0025F9CA1A3DBC7A00112BA0 /* Codeforces Round #168 Div.2 */ = {
+		006A8BBC1A3DBF36006E2BE8 /* Codeforces Round #168 Div.2 */ = {
 			isa = PBXGroup;
 			children = (
-				0025F9CB1A3DBC7A00112BA0 /* A. Lights Out.cpp */,
-				0025F9CC1A3DBC7A00112BA0 /* B. Convex Shape.py */,
-				0025F9CD1A3DBC7A00112BA0 /* B.in */,
-				0025F9CE1A3DBC7A00112BA0 /* C. k-Multiple Free Set.py */,
-				0025F9CF1A3DBC7A00112BA0 /* C.in */,
-				0025F9D01A3DBC7A00112BA0 /* D. Zero Tree.py */,
-				0025F9D11A3DBC7A00112BA0 /* D.in */,
+				006A8BBD1A3DBF36006E2BE8 /* A. Lights Out.cpp */,
+				006A8BBE1A3DBF36006E2BE8 /* B. Convex Shape.py */,
+				006A8BBF1A3DBF36006E2BE8 /* B.in */,
+				006A8BC01A3DBF36006E2BE8 /* C. k-Multiple Free Set.py */,
+				006A8BC11A3DBF36006E2BE8 /* C.in */,
+				006A8BC21A3DBF36006E2BE8 /* D. Zero Tree.py */,
+				006A8BC31A3DBF36006E2BE8 /* D.in */,
 			);
 			path = "Codeforces Round #168 Div.2";
 			sourceTree = "<group>";
 		};
-		0025F9D21A3DBC7A00112BA0 /* Codeforces Round #170 Div.2 */ = {
+		006A8BC41A3DBF36006E2BE8 /* Codeforces Round #170 Div.2 */ = {
 			isa = PBXGroup;
 			children = (
-				0025F9D31A3DBC7A00112BA0 /* A. Circle Line.py */,
-				0025F9D41A3DBC7A00112BA0 /* A.in */,
-				0025F9D51A3DBC7A00112BA0 /* B. New Problem.py */,
-				0025F9D61A3DBC7A00112BA0 /* B.in */,
-				0025F9D71A3DBC7A00112BA0 /* C. Learning Languages.py */,
-				0025F9D81A3DBC7A00112BA0 /* C.in */,
-				0025F9D91A3DBC7A00112BA0 /* D. Set of Points.py */,
-				0025F9DA1A3DBC7A00112BA0 /* D.in */,
+				006A8BC51A3DBF36006E2BE8 /* A. Circle Line.py */,
+				006A8BC61A3DBF36006E2BE8 /* A.in */,
+				006A8BC71A3DBF36006E2BE8 /* B. New Problem.py */,
+				006A8BC81A3DBF36006E2BE8 /* B.in */,
+				006A8BC91A3DBF36006E2BE8 /* C. Learning Languages.py */,
+				006A8BCA1A3DBF36006E2BE8 /* C.in */,
+				006A8BCB1A3DBF36006E2BE8 /* D. Set of Points.py */,
+				006A8BCC1A3DBF36006E2BE8 /* D.in */,
 			);
 			path = "Codeforces Round #170 Div.2";
 			sourceTree = "<group>";
 		};
-		0025F9DB1A3DBC7A00112BA0 /* Codeforces Round #173 Div.2 */ = {
+		006A8BCD1A3DBF36006E2BE8 /* Codeforces Round #173 Div.2 */ = {
 			isa = PBXGroup;
 			children = (
-				0025F9DC1A3DBC7A00112BA0 /* A. Bit++.py */,
-				0025F9DD1A3DBC7A00112BA0 /* B. Painting Eggs.py */,
-				0025F9DE1A3DBC7A00112BA0 /* B.in */,
-				0025F9DF1A3DBC7A00112BA0 /* C. XOR and OR.py */,
-				0025F9E01A3DBC7A00112BA0 /* C.in */,
-				0025F9E11A3DBC7A00112BA0 /* E. Sausage Maximization.py */,
-				0025F9E21A3DBC7A00112BA0 /* E.in */,
+				006A8BCE1A3DBF36006E2BE8 /* A. Bit++.py */,
+				006A8BCF1A3DBF36006E2BE8 /* B. Painting Eggs.py */,
+				006A8BD01A3DBF36006E2BE8 /* B.in */,
+				006A8BD11A3DBF36006E2BE8 /* C. XOR and OR.py */,
+				006A8BD21A3DBF36006E2BE8 /* C.in */,
+				006A8BD31A3DBF36006E2BE8 /* E. Sausage Maximization.py */,
+				006A8BD41A3DBF36006E2BE8 /* E.in */,
 			);
 			path = "Codeforces Round #173 Div.2";
 			sourceTree = "<group>";
 		};
-		0025F9E31A3DBC7A00112BA0 /* Codeforces Round #178 Div.2 */ = {
+		006A8BD51A3DBF36006E2BE8 /* Codeforces Round #178 Div.2 */ = {
 			isa = PBXGroup;
 			children = (
-				0025F9E41A3DBC7A00112BA0 /* A. Shaass and Oskols.py */,
-				0025F9E51A3DBC7A00112BA0 /* A.in */,
-				0025F9E61A3DBC7A00112BA0 /* B. Shaass and Bookshelf.py */,
-				0025F9E71A3DBC7A00112BA0 /* B.in */,
+				006A8BD61A3DBF36006E2BE8 /* A. Shaass and Oskols.py */,
+				006A8BD71A3DBF36006E2BE8 /* A.in */,
+				006A8BD81A3DBF36006E2BE8 /* B. Shaass and Bookshelf.py */,
+				006A8BD91A3DBF36006E2BE8 /* B.in */,
 			);
 			path = "Codeforces Round #178 Div.2";
 			sourceTree = "<group>";
 		};
-		0025F9E81A3DBC7A00112BA0 /* Codeforces Round #203 Div.2 */ = {
+		006A8BDA1A3DBF36006E2BE8 /* Codeforces Round #203 Div.2 */ = {
 			isa = PBXGroup;
 			children = (
-				0025F9E91A3DBC7A00112BA0 /* A. TL.py */,
-				0025F9EA1A3DBC7A00112BA0 /* A.in */,
-				0025F9EB1A3DBC7A00112BA0 /* B. Resort.py */,
-				0025F9EC1A3DBC7A00112BA0 /* B.in */,
-				0025F9ED1A3DBC7A00112BA0 /* C. Bombs.cpp */,
-				0025F9EE1A3DBC7A00112BA0 /* C. Bombs.py */,
-				0025F9EF1A3DBC7A00112BA0 /* C.in */,
-				0025F9F01A3DBC7A00112BA0 /* D. Looking for Owls.cpp */,
-				0025F9F11A3DBC7A00112BA0 /* E. Wrong Floyd.py */,
-				0025F9F21A3DBC7A00112BA0 /* E.in */,
+				006A8BDB1A3DBF36006E2BE8 /* A. TL.py */,
+				006A8BDC1A3DBF36006E2BE8 /* A.in */,
+				006A8BDD1A3DBF36006E2BE8 /* B. Resort.py */,
+				006A8BDE1A3DBF36006E2BE8 /* B.in */,
+				006A8BDF1A3DBF36006E2BE8 /* C. Bombs.cpp */,
+				006A8BE01A3DBF36006E2BE8 /* C. Bombs.py */,
+				006A8BE11A3DBF36006E2BE8 /* C.in */,
+				006A8BE21A3DBF36006E2BE8 /* D. Looking for Owls.cpp */,
+				006A8BE31A3DBF36006E2BE8 /* E. Wrong Floyd.py */,
+				006A8BE41A3DBF36006E2BE8 /* E.in */,
 			);
 			path = "Codeforces Round #203 Div.2";
 			sourceTree = "<group>";
 		};
-		0025F9F31A3DBC7A00112BA0 /* Codeforces Round #204 Div.2 */ = {
+		006A8BE51A3DBF36006E2BE8 /* Codeforces Round #204 Div.2 */ = {
 			isa = PBXGroup;
 			children = (
-				0025F9F41A3DBC7A00112BA0 /* A. Jeff and Digits.py */,
-				0025F9F51A3DBC7A00112BA0 /* A.in */,
-				0025F9F61A3DBC7A00112BA0 /* B. Jeff and Periods.py */,
-				0025F9F71A3DBC7A00112BA0 /* B.in */,
+				006A8BE61A3DBF36006E2BE8 /* A. Jeff and Digits.py */,
+				006A8BE71A3DBF36006E2BE8 /* A.in */,
+				006A8BE81A3DBF36006E2BE8 /* B. Jeff and Periods.py */,
+				006A8BE91A3DBF36006E2BE8 /* B.in */,
 			);
 			path = "Codeforces Round #204 Div.2";
 			sourceTree = "<group>";
 		};
-		0025F9F81A3DBC7A00112BA0 /* Codeforces Round #225 Div.2 */ = {
+		006A8BEA1A3DBF36006E2BE8 /* Codeforces Round #225 Div.2 */ = {
 			isa = PBXGroup;
 			children = (
-				0025F9F91A3DBC7A00112BA0 /* A. Coder.py */,
-				0025F9FA1A3DBC7A00112BA0 /* A.in */,
-				0025F9FB1A3DBC7A00112BA0 /* B. Multitasking.cpp */,
-				0025F9FC1A3DBC7A00112BA0 /* B. Multitasking.py */,
-				0025F9FD1A3DBC7A00112BA0 /* B.in */,
-				0025F9FE1A3DBC7A00112BA0 /* C. Milking cows.cpp */,
+				006A8BEB1A3DBF36006E2BE8 /* A. Coder.py */,
+				006A8BEC1A3DBF36006E2BE8 /* A.in */,
+				006A8BED1A3DBF36006E2BE8 /* B. Multitasking.cpp */,
+				006A8BEE1A3DBF36006E2BE8 /* B. Multitasking.py */,
+				006A8BEF1A3DBF36006E2BE8 /* B.in */,
+				006A8BF01A3DBF36006E2BE8 /* C. Milking cows.cpp */,
 			);
 			path = "Codeforces Round #225 Div.2";
 			sourceTree = "<group>";
 		};
-		0025F9FF1A3DBC7A00112BA0 /* Codeforces Round #241 Div.2 */ = {
+		006A8BF11A3DBF36006E2BE8 /* Codeforces Round #241 Div.2 */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA001A3DBC7A00112BA0 /* A. Guess a number!.py */,
-				0025FA011A3DBC7A00112BA0 /* A.in */,
-				0025FA021A3DBC7A00112BA0 /* B. Art Union.py */,
-				0025FA031A3DBC7A00112BA0 /* B.in */,
-				0025FA041A3DBC7A00112BA0 /* C. Booking System.py */,
-				0025FA051A3DBC7A00112BA0 /* C.in */,
+				006A8BF21A3DBF36006E2BE8 /* A. Guess a number!.py */,
+				006A8BF31A3DBF36006E2BE8 /* A.in */,
+				006A8BF41A3DBF36006E2BE8 /* B. Art Union.py */,
+				006A8BF51A3DBF36006E2BE8 /* B.in */,
+				006A8BF61A3DBF36006E2BE8 /* C. Booking System.py */,
+				006A8BF71A3DBF36006E2BE8 /* C.in */,
 			);
 			path = "Codeforces Round #241 Div.2";
 			sourceTree = "<group>";
 		};
-		0025FA061A3DBC7A00112BA0 /* Etc */ = {
+		006A8BF81A3DBF36006E2BE8 /* Etc */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA071A3DBC7A00112BA0 /* main.cpp */,
-				0025FA081A3DBC7A00112BA0 /* main2.cpp */,
-				0025FA091A3DBC7A00112BA0 /* main3.cpp */,
+				006A8BF91A3DBF36006E2BE8 /* main.cpp */,
+				006A8BFA1A3DBF36006E2BE8 /* main2.cpp */,
+				006A8BFB1A3DBF36006E2BE8 /* main3.cpp */,
 			);
 			path = Etc;
 			sourceTree = "<group>";
 		};
-		0025FA0A1A3DBC7A00112BA0 /* Library */ = {
+		006A8BFC1A3DBF36006E2BE8 /* Library */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA0B1A3DBC7A00112BA0 /* Geometry Lib.cpp */,
+				006A8BFD1A3DBF36006E2BE8 /* Geometry Lib.cpp */,
 			);
 			path = Library;
 			sourceTree = "<group>";
 		};
-		0025FA0C1A3DBC7A00112BA0 /* TopCoder */ = {
+		006A8BFE1A3DBF36006E2BE8 /* TopCoder */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA0D1A3DBC7A00112BA0 /* SRM 525 Div2 */,
-				0025FA101A3DBC7A00112BA0 /* SRM 570 Div2 */,
-				0025FA141A3DBC7A00112BA0 /* SRM 572 Div2 */,
+				006A8BFF1A3DBF36006E2BE8 /* SRM 525 Div2 */,
+				006A8C021A3DBF36006E2BE8 /* SRM 570 Div2 */,
+				006A8C061A3DBF36006E2BE8 /* SRM 572 Div2 */,
 			);
 			path = TopCoder;
 			sourceTree = "<group>";
 		};
-		0025FA0D1A3DBC7A00112BA0 /* SRM 525 Div2 */ = {
+		006A8BFF1A3DBF36006E2BE8 /* SRM 525 Div2 */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA0E1A3DBC7A00112BA0 /* 250. RainyRoad.cpp */,
-				0025FA0F1A3DBC7A00112BA0 /* 600. DropCoins.cpp */,
+				006A8C001A3DBF36006E2BE8 /* 250. RainyRoad.cpp */,
+				006A8C011A3DBF36006E2BE8 /* 600. DropCoins.cpp */,
 			);
 			path = "SRM 525 Div2";
 			sourceTree = "<group>";
 		};
-		0025FA101A3DBC7A00112BA0 /* SRM 570 Div2 */ = {
+		006A8C021A3DBF36006E2BE8 /* SRM 570 Div2 */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA111A3DBC7A00112BA0 /* 1000. CentaurCompanyDiv2.cpp */,
-				0025FA121A3DBC7A00112BA0 /* 250. Chopsticks.cpp */,
-				0025FA131A3DBC7A00112BA0 /* 500. RobotHerbDiv2.cpp */,
+				006A8C031A3DBF36006E2BE8 /* 1000. CentaurCompanyDiv2.cpp */,
+				006A8C041A3DBF36006E2BE8 /* 250. Chopsticks.cpp */,
+				006A8C051A3DBF36006E2BE8 /* 500. RobotHerbDiv2.cpp */,
 			);
 			path = "SRM 570 Div2";
 			sourceTree = "<group>";
 		};
-		0025FA141A3DBC7A00112BA0 /* SRM 572 Div2 */ = {
+		006A8C061A3DBF36006E2BE8 /* SRM 572 Div2 */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA151A3DBC7A00112BA0 /* 250. EasyHomework.cpp */,
-				0025FA161A3DBC7A00112BA0 /* 500. NextOrPrev.cpp */,
+				006A8C071A3DBF36006E2BE8 /* 250. EasyHomework.cpp */,
+				006A8C081A3DBF36006E2BE8 /* 500. NextOrPrev.cpp */,
 			);
 			path = "SRM 572 Div2";
 			sourceTree = "<group>";
 		};
-		0025FA171A3DBC7A00112BA0 /* UVA */ = {
+		006A8C091A3DBF36006E2BE8 /* UVA */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA181A3DBC7A00112BA0 /* Volume1 */,
-				0025FA1C1A3DBC7A00112BA0 /* Volume100 */,
-				0025FA1F1A3DBC7A00112BA0 /* Volume101 */,
-				0025FA221A3DBC7A00112BA0 /* Volume103 */,
-				0025FA261A3DBC7A00112BA0 /* Volume104 */,
-				0025FA281A3DBC7A00112BA0 /* Volume105 */,
-				0025FA2A1A3DBC7A00112BA0 /* Volume106 */,
-				0025FA2D1A3DBC7A00112BA0 /* Volume107 */,
-				0025FA2F1A3DBC7A00112BA0 /* Volume108 */,
-				0025FA311A3DBC7A00112BA0 /* Volume111 */,
-				0025FA341A3DBC7A00112BA0 /* Volume112 */,
-				0025FA361A3DBC7A00112BA0 /* Volume114 */,
-				0025FA391A3DBC7A00112BA0 /* Volume115 */,
-				0025FA3B1A3DBC7A00112BA0 /* Volume116 */,
-				0025FA3E1A3DBC7A00112BA0 /* Volume117 */,
-				0025FA411A3DBC7A00112BA0 /* Volume2 */,
-				0025FA451A3DBC7A00112BA0 /* Volume3 */,
-				0025FA4D1A3DBC7A00112BA0 /* Volume4 */,
-				0025FA4F1A3DBC7A00112BA0 /* Volume5 */,
-				0025FA561A3DBC7A00112BA0 /* Volume6 */,
-				0025FA581A3DBC7A00112BA0 /* Volume7 */,
-				0025FA5B1A3DBC7A00112BA0 /* Volume8 */,
-				0025FA5F1A3DBC7A00112BA0 /* Volume9 */,
+				006A8C0A1A3DBF36006E2BE8 /* Volume1 */,
+				006A8C0E1A3DBF36006E2BE8 /* Volume100 */,
+				006A8C111A3DBF36006E2BE8 /* Volume101 */,
+				006A8C141A3DBF36006E2BE8 /* Volume103 */,
+				006A8C181A3DBF36006E2BE8 /* Volume104 */,
+				006A8C1A1A3DBF36006E2BE8 /* Volume105 */,
+				006A8C1C1A3DBF36006E2BE8 /* Volume106 */,
+				006A8C1F1A3DBF36006E2BE8 /* Volume107 */,
+				006A8C211A3DBF36006E2BE8 /* Volume108 */,
+				006A8C231A3DBF36006E2BE8 /* Volume111 */,
+				006A8C261A3DBF36006E2BE8 /* Volume112 */,
+				006A8C281A3DBF36006E2BE8 /* Volume114 */,
+				006A8C2B1A3DBF36006E2BE8 /* Volume115 */,
+				006A8C2D1A3DBF36006E2BE8 /* Volume116 */,
+				006A8C301A3DBF36006E2BE8 /* Volume117 */,
+				006A8C331A3DBF36006E2BE8 /* Volume2 */,
+				006A8C371A3DBF36006E2BE8 /* Volume3 */,
+				006A8C3F1A3DBF36006E2BE8 /* Volume4 */,
+				006A8C411A3DBF36006E2BE8 /* Volume5 */,
+				006A8C481A3DBF36006E2BE8 /* Volume6 */,
+				006A8C4A1A3DBF36006E2BE8 /* Volume7 */,
+				006A8C4D1A3DBF36006E2BE8 /* Volume8 */,
+				006A8C511A3DBF36006E2BE8 /* Volume9 */,
 			);
 			path = UVA;
 			sourceTree = "<group>";
 		};
-		0025FA181A3DBC7A00112BA0 /* Volume1 */ = {
+		006A8C0A1A3DBF36006E2BE8 /* Volume1 */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA191A3DBC7A00112BA0 /* UVA 104 - Arbitrage.cpp */,
-				0025FA1A1A3DBC7A00112BA0 /* UVA 117 - The Postal Worker Rings Once.cpp */,
-				0025FA1B1A3DBC7A00112BA0 /* UVA 124 - Following Orders.cpp */,
+				006A8C0B1A3DBF36006E2BE8 /* UVA 104 - Arbitrage.cpp */,
+				006A8C0C1A3DBF36006E2BE8 /* UVA 117 - The Postal Worker Rings Once.cpp */,
+				006A8C0D1A3DBF36006E2BE8 /* UVA 124 - Following Orders.cpp */,
 			);
 			path = Volume1;
 			sourceTree = "<group>";
 		};
-		0025FA1C1A3DBC7A00112BA0 /* Volume100 */ = {
+		006A8C0E1A3DBF36006E2BE8 /* Volume100 */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA1D1A3DBC7A00112BA0 /* UVA 10004 - Bicoloring.cpp */,
-				0025FA1E1A3DBC7A00112BA0 /* UVA 10048 - Audiophobia.cpp */,
+				006A8C0F1A3DBF36006E2BE8 /* UVA 10004 - Bicoloring.cpp */,
+				006A8C101A3DBF36006E2BE8 /* UVA 10048 - Audiophobia.cpp */,
 			);
 			path = Volume100;
 			sourceTree = "<group>";
 		};
-		0025FA1F1A3DBC7A00112BA0 /* Volume101 */ = {
+		006A8C111A3DBF36006E2BE8 /* Volume101 */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA201A3DBC7A00112BA0 /* UVA 10171 - Meeting Prof. Miguel....cpp */,
-				0025FA211A3DBC7A00112BA0 /* UVA 10199 - Tourist Guide.cpp */,
+				006A8C121A3DBF36006E2BE8 /* UVA 10171 - Meeting Prof. Miguel....cpp */,
+				006A8C131A3DBF36006E2BE8 /* UVA 10199 - Tourist Guide.cpp */,
 			);
 			path = Volume101;
 			sourceTree = "<group>";
 		};
-		0025FA221A3DBC7A00112BA0 /* Volume103 */ = {
+		006A8C141A3DBF36006E2BE8 /* Volume103 */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA231A3DBC7A00112BA0 /* UVA 10305 - Ordering Tasks.cpp */,
-				0025FA241A3DBC7A00112BA0 /* UVA 10369 - Arctic Network.cpp */,
-				0025FA251A3DBC7A00112BA0 /* UVA 10397 - Connect the Campus.cpp */,
+				006A8C151A3DBF36006E2BE8 /* UVA 10305 - Ordering Tasks.cpp */,
+				006A8C161A3DBF36006E2BE8 /* UVA 10369 - Arctic Network.cpp */,
+				006A8C171A3DBF36006E2BE8 /* UVA 10397 - Connect the Campus.cpp */,
 			);
 			path = Volume103;
 			sourceTree = "<group>";
 		};
-		0025FA261A3DBC7A00112BA0 /* Volume104 */ = {
+		006A8C181A3DBF36006E2BE8 /* Volume104 */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA271A3DBC7A00112BA0 /* UVA 10496 - Collecting Beepers.cpp */,
+				006A8C191A3DBF36006E2BE8 /* UVA 10496 - Collecting Beepers.cpp */,
 			);
 			path = Volume104;
 			sourceTree = "<group>";
 		};
-		0025FA281A3DBC7A00112BA0 /* Volume105 */ = {
+		006A8C1A1A3DBF36006E2BE8 /* Volume105 */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA291A3DBC7A00112BA0 /* UVA 10557 - XYZZY.cpp */,
+				006A8C1B1A3DBF36006E2BE8 /* UVA 10557 - XYZZY.cpp */,
 			);
 			path = Volume105;
 			sourceTree = "<group>";
 		};
-		0025FA2A1A3DBC7A00112BA0 /* Volume106 */ = {
+		006A8C1C1A3DBF36006E2BE8 /* Volume106 */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA2B1A3DBC7A00112BA0 /* UVA 10600 - ACM Contest and Blackout.cpp */,
-				0025FA2C1A3DBC7A00112BA0 /* UVA 10653 - Bombs! NO they are Mines!!.cpp */,
+				006A8C1D1A3DBF36006E2BE8 /* UVA 10600 - ACM Contest and Blackout.cpp */,
+				006A8C1E1A3DBF36006E2BE8 /* UVA 10653 - Bombs! NO they are Mines!!.cpp */,
 			);
 			path = Volume106;
 			sourceTree = "<group>";
 		};
-		0025FA2D1A3DBC7A00112BA0 /* Volume107 */ = {
+		006A8C1F1A3DBF36006E2BE8 /* Volume107 */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA2E1A3DBC7A00112BA0 /* UVA 10731 - Test.cpp */,
+				006A8C201A3DBF36006E2BE8 /* UVA 10731 - Test.cpp */,
 			);
 			path = Volume107;
 			sourceTree = "<group>";
 		};
-		0025FA2F1A3DBC7A00112BA0 /* Volume108 */ = {
+		006A8C211A3DBF36006E2BE8 /* Volume108 */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA301A3DBC7A00112BA0 /* UVA 10801 - Lift Hopping.cpp */,
+				006A8C221A3DBF36006E2BE8 /* UVA 10801 - Lift Hopping.cpp */,
 			);
 			path = Volume108;
 			sourceTree = "<group>";
 		};
-		0025FA311A3DBC7A00112BA0 /* Volume111 */ = {
+		006A8C231A3DBF36006E2BE8 /* Volume111 */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA321A3DBC7A00112BA0 /* UVA 11101 - Mall Mania.cpp */,
-				0025FA331A3DBC7A00112BA0 /* UVA 11110 - Equidivisions.cpp */,
+				006A8C241A3DBF36006E2BE8 /* UVA 11101 - Mall Mania.cpp */,
+				006A8C251A3DBF36006E2BE8 /* UVA 11110 - Equidivisions.cpp */,
 			);
 			path = Volume111;
 			sourceTree = "<group>";
 		};
-		0025FA341A3DBC7A00112BA0 /* Volume112 */ = {
+		006A8C261A3DBF36006E2BE8 /* Volume112 */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA351A3DBC7A00112BA0 /* UVA 11280 - Flying to Fredericton.cpp */,
+				006A8C271A3DBF36006E2BE8 /* UVA 11280 - Flying to Fredericton.cpp */,
 			);
 			path = Volume112;
 			sourceTree = "<group>";
 		};
-		0025FA361A3DBC7A00112BA0 /* Volume114 */ = {
+		006A8C281A3DBF36006E2BE8 /* Volume114 */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA371A3DBC7A00112BA0 /* UVA 11463 - Commandos.cpp */,
-				0025FA381A3DBC7A00112BA0 /* UVA 11492 - Babel.cpp */,
+				006A8C291A3DBF36006E2BE8 /* UVA 11463 - Commandos.cpp */,
+				006A8C2A1A3DBF36006E2BE8 /* UVA 11492 - Babel.cpp */,
 			);
 			path = Volume114;
 			sourceTree = "<group>";
 		};
-		0025FA391A3DBC7A00112BA0 /* Volume115 */ = {
+		006A8C2B1A3DBF36006E2BE8 /* Volume115 */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA3A1A3DBC7A00112BA0 /* UVA 11504 - Dominos.cpp */,
+				006A8C2C1A3DBF36006E2BE8 /* UVA 11504 - Dominos.cpp */,
 			);
 			path = Volume115;
 			sourceTree = "<group>";
 		};
-		0025FA3B1A3DBC7A00112BA0 /* Volume116 */ = {
+		006A8C2D1A3DBF36006E2BE8 /* Volume116 */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA3C1A3DBC7A00112BA0 /* UVA 11624 - Fire!.cpp */,
-				0025FA3D1A3DBC7A00112BA0 /* UVA 11631 - Dark roads.cpp */,
+				006A8C2E1A3DBF36006E2BE8 /* UVA 11624 - Fire!.cpp */,
+				006A8C2F1A3DBF36006E2BE8 /* UVA 11631 - Dark roads.cpp */,
 			);
 			path = Volume116;
 			sourceTree = "<group>";
 		};
-		0025FA3E1A3DBC7A00112BA0 /* Volume117 */ = {
+		006A8C301A3DBF36006E2BE8 /* Volume117 */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA3F1A3DBC7A00112BA0 /* UVA 11709 - Trust groups.cpp */,
-				0025FA401A3DBC7A00112BA0 /* UVA 11747 - Heavy Cycle Edges.cpp */,
+				006A8C311A3DBF36006E2BE8 /* UVA 11709 - Trust groups.cpp */,
+				006A8C321A3DBF36006E2BE8 /* UVA 11747 - Heavy Cycle Edges.cpp */,
 			);
 			path = Volume117;
 			sourceTree = "<group>";
 		};
-		0025FA411A3DBC7A00112BA0 /* Volume2 */ = {
+		006A8C331A3DBF36006E2BE8 /* Volume2 */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA421A3DBC7A00112BA0 /* UVA 216 - Getting in Line.cpp */,
-				0025FA431A3DBC7A00112BA0 /* UVA 274 - Cat and Mouse.cpp */,
-				0025FA441A3DBC7A00112BA0 /* UVA 291 - The House Of Santa Claus.cpp */,
+				006A8C341A3DBF36006E2BE8 /* UVA 216 - Getting in Line.cpp */,
+				006A8C351A3DBF36006E2BE8 /* UVA 274 - Cat and Mouse.cpp */,
+				006A8C361A3DBF36006E2BE8 /* UVA 291 - The House Of Santa Claus.cpp */,
 			);
 			path = Volume2;
 			sourceTree = "<group>";
 		};
-		0025FA451A3DBC7A00112BA0 /* Volume3 */ = {
+		006A8C371A3DBF36006E2BE8 /* Volume3 */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA461A3DBC7A00112BA0 /* UVA 301 - Transportation.cpp */,
-				0025FA471A3DBC7A00112BA0 /* UVA 302 - John's Trip.cpp */,
-				0025FA481A3DBC7A00112BA0 /* UVA 314 - Robot.cpp */,
-				0025FA491A3DBC7A00112BA0 /* UVA 315 - Network.cpp */,
-				0025FA4A1A3DBC7A00112BA0 /* UVA 334 - Identifying Concurrent Events.cpp */,
-				0025FA4B1A3DBC7A00112BA0 /* UVA 336 - A Node Too Far.cpp */,
-				0025FA4C1A3DBC7A00112BA0 /* UVA 341 - Non-Stop Travel.cpp */,
+				006A8C381A3DBF36006E2BE8 /* UVA 301 - Transportation.cpp */,
+				006A8C391A3DBF36006E2BE8 /* UVA 302 - John's Trip.cpp */,
+				006A8C3A1A3DBF36006E2BE8 /* UVA 314 - Robot.cpp */,
+				006A8C3B1A3DBF36006E2BE8 /* UVA 315 - Network.cpp */,
+				006A8C3C1A3DBF36006E2BE8 /* UVA 334 - Identifying Concurrent Events.cpp */,
+				006A8C3D1A3DBF36006E2BE8 /* UVA 336 - A Node Too Far.cpp */,
+				006A8C3E1A3DBF36006E2BE8 /* UVA 341 - Non-Stop Travel.cpp */,
 			);
 			path = Volume3;
 			sourceTree = "<group>";
 		};
-		0025FA4D1A3DBC7A00112BA0 /* Volume4 */ = {
+		006A8C3F1A3DBF36006E2BE8 /* Volume4 */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA4E1A3DBC7A00112BA0 /* UVA 469 - Wetlands of Florida.cpp */,
+				006A8C401A3DBF36006E2BE8 /* UVA 469 - Wetlands of Florida.cpp */,
 			);
 			path = Volume4;
 			sourceTree = "<group>";
 		};
-		0025FA4F1A3DBC7A00112BA0 /* Volume5 */ = {
+		006A8C411A3DBF36006E2BE8 /* Volume5 */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA501A3DBC7A00112BA0 /* UVA 524 - Prime Ring Problem.cpp */,
-				0025FA511A3DBC7A00112BA0 /* UVA 526 - String Distance and Transform Process.cpp */,
-				0025FA521A3DBC7A00112BA0 /* UVA 532 - Dungeon Master.cpp */,
-				0025FA531A3DBC7A00112BA0 /* UVA 534 - Frogger.cpp */,
-				0025FA541A3DBC7A00112BA0 /* UVA 544 - Heavy Cargo.cpp */,
-				0025FA551A3DBC7A00112BA0 /* UVA 558 - Wormholes.cpp */,
+				006A8C421A3DBF36006E2BE8 /* UVA 524 - Prime Ring Problem.cpp */,
+				006A8C431A3DBF36006E2BE8 /* UVA 526 - String Distance and Transform Process.cpp */,
+				006A8C441A3DBF36006E2BE8 /* UVA 532 - Dungeon Master.cpp */,
+				006A8C451A3DBF36006E2BE8 /* UVA 534 - Frogger.cpp */,
+				006A8C461A3DBF36006E2BE8 /* UVA 544 - Heavy Cargo.cpp */,
+				006A8C471A3DBF36006E2BE8 /* UVA 558 - Wormholes.cpp */,
 			);
 			path = Volume5;
 			sourceTree = "<group>";
 		};
-		0025FA561A3DBC7A00112BA0 /* Volume6 */ = {
+		006A8C481A3DBF36006E2BE8 /* Volume6 */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA571A3DBC7A00112BA0 /* UVA 657 - The die is cast.cpp */,
+				006A8C491A3DBF36006E2BE8 /* UVA 657 - The die is cast.cpp */,
 			);
 			path = Volume6;
 			sourceTree = "<group>";
 		};
-		0025FA581A3DBC7A00112BA0 /* Volume7 */ = {
+		006A8C4A1A3DBF36006E2BE8 /* Volume7 */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA591A3DBC7A00112BA0 /* UVA 762 - We Ship Cheap.cpp */,
-				0025FA5A1A3DBC7A00112BA0 /* UVA 796 - Critical Links.cpp */,
+				006A8C4B1A3DBF36006E2BE8 /* UVA 762 - We Ship Cheap.cpp */,
+				006A8C4C1A3DBF36006E2BE8 /* UVA 796 - Critical Links.cpp */,
 			);
 			path = Volume7;
 			sourceTree = "<group>";
 		};
-		0025FA5B1A3DBC7A00112BA0 /* Volume8 */ = {
+		006A8C4D1A3DBF36006E2BE8 /* Volume8 */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA5C1A3DBC7A00112BA0 /* UVA 821 - Page Hopping.cpp */,
-				0025FA5D1A3DBC7A00112BA0 /* UVA 869 - Airline Comparison.cpp */,
-				0025FA5E1A3DBC7A00112BA0 /* UVA 872 - Ordering.cpp */,
+				006A8C4E1A3DBF36006E2BE8 /* UVA 821 - Page Hopping.cpp */,
+				006A8C4F1A3DBF36006E2BE8 /* UVA 869 - Airline Comparison.cpp */,
+				006A8C501A3DBF36006E2BE8 /* UVA 872 - Ordering.cpp */,
 			);
 			path = Volume8;
 			sourceTree = "<group>";
 		};
-		0025FA5F1A3DBC7A00112BA0 /* Volume9 */ = {
+		006A8C511A3DBF36006E2BE8 /* Volume9 */ = {
 			isa = PBXGroup;
 			children = (
-				0025FA601A3DBC7A00112BA0 /* UVA 908 - Re-connecting Computer Sites.cpp */,
+				006A8C521A3DBF36006E2BE8 /* UVA 908 - Re-connecting Computer Sites.cpp */,
 			);
 			path = Volume9;
 			sourceTree = "<group>";
