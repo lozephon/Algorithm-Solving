@@ -158,3 +158,6 @@ $RECYCLE.BIN/
 # vcxproj files
 *.vcxproj
 *.vcxproj.filters
+Algorithm-Solving.xcodeproj/project.pbxproj
+
+Algorithm-Solving.xcodeproj/project.xcworkspace/xcuserdata/Howling.xcuserdatad/UserInterfaceState.xcuserstate
