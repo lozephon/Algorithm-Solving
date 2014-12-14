@@ -24,9 +24,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Algorithm-Sources\BOJ\9763. 마을의 친밀도.cpp">
-      <Filter>Algorithm-Sources\BOJ</Filter>
-    </ClCompile>
     <ClCompile Include="Algorithm-Sources\Codeforces\Codeforces Round #135 Div.2\A. k-String.cpp">
       <Filter>Algorithm-Sources\Codeforces\Codeforces Round #135 Div.2</Filter>
     </ClCompile>
@@ -41,6 +38,12 @@
     </ClCompile>
     <ClCompile Include="Algorithm-Sources\Codeforces\Codeforces Round #135 Div.2\E.cpp">
       <Filter>Algorithm-Sources\Codeforces\Codeforces Round #135 Div.2</Filter>
+    </ClCompile>
+    <ClCompile Include="1132. 합.cpp">
+      <Filter>Algorithm-Sources\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="Algorithm-Sources\BOJ\9763. 마을의 친밀도.cpp">
+      <Filter>Algorithm-Sources\BOJ</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

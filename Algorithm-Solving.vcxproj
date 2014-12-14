@@ -11,6 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="1132. 합.cpp" />
     <ClCompile Include="Algorithm-Sources\BOJ\9763. 마을의 친밀도.cpp" />
     <ClCompile Include="Algorithm-Sources\Codeforces\Codeforces Round #135 Div.2\A. k-String.cpp" />
     <ClCompile Include="Algorithm-Sources\Codeforces\Codeforces Round #135 Div.2\B. Special Offer! Super Price 999 Bourles!.cpp" />
